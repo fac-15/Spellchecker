@@ -832,5 +832,116 @@
     "type": "Curse",
     "description": "Causes the target's fingers to become almost jelly-like to make it uneasy for the victim to grasp objects.",
     "mentioned": "After a June 1999 Pride of Portree/Appleby Arrows Quidditch game, the losing Seeker accused his opposite number of putting this curse on him as they both closed in on the Snitch."
+  },
+  {
+    "name": "Lacarnum Inflamarae",
+    "type": "Charm",
+    "pronunciation": "la-CAR-num in-fla-MA-ray",
+    "description": "It sends a ball of fire from the wand",
+    "mentioned": "Used by Hermione in 1991 to stop Snape from cursing Harry. The incantation is only used in the film adaptation of Harry Potter and the Philosopher's Stone.",
+    "etymology": "Latin inflammo, or the verb inflammatio meaning 'to set on fire'. Lacarnum, from the Latin 'lacerna', meaning 'cloak'."
+  },
+  {
+    "name": "Langlock",
+    "type": "Jinx",
+    "pronunciation": "LANG-lock",
+    "description": "Glues the subject's tongue to the roof of their mouth. Created by Severus Snape.",
+    "mentioned": "Used by Harry on Peeves and twice on Argus Filch, to general applause.",
+    "etymology": "Probably from the French langue ('tongue') and the English 'lock'."
+  },
+  {
+    "name": "Lapifors",
+    "define": "Lapifors Spell",
+    "type": "Transfiguration",
+    "pronunciation": "LAP-ih-forz",
+    "description": "Turns targets into real rabbits.",
+    "mentioned": "Used by Hermione in the Harry Potter and the Prisoner of Azkaban and Harry Potter and the Goblet of Fire video games.",
+    "etymology": "From Latin lepus meaning hare, and forma meaning 'shape'."
+  },
+  {
+    "define": "Leek Jinx",
+    "type": "Jinx",
+    "description": "Makes leeks sprout out of the target's ears.",
+    "mentioned": "Used by a fighting Gryffindor fourth year and sixth year Slytherin before a Quidditch match in 1992."
+  },
+  {
+    "name": "Legilimens",
+    "define": "Legilimency Spell",
+    "type": "Charm",
+    "pronunciation": "Le-JIL-ih-mens",
+    "description": "Allows the caster to delve into the mind of the victim, allowing the caster to see the memories, thoughts, and emotions of the victim.",
+    "mentioned": "Used by Severus Snape on Harry after he had a dream about Arthur Weasley being attacked by Nagini in 1995. Also during Occlumency lessons in 1996. Also used non-verbally by Snape on Harry in 1997 to allow him to see where Harry had learned the Sectumsempra spell.",
+    "etymology": "Latin legere ('to read') and mens ('mind')."
+  },
+  {
+    "name": "Levicorpus",
+    "type": "Jinx",
+    "pronunciation": "lev-ee-COR-pus",
+    "description": "The victim is dangled upside-down by their ankles, sometimes accompanied by a flash of light (this may be a variant of the spell).",
+    "mentioned": "Apparently invented by the Half-Blood Prince; it is a non-verbal-only spell (although it is whispered by Hermione in 1997). Harry Potter learnt it by reading the notes written by the Half-Blood Prince. He used it on Ron. The previous year, Harry had seen (through the Pensieve used by Severus Snape) his father, James Potter, use the spell against Professor Snape. In the Order of the Phoenix film, Luna Lovegood somehow uses this against a Death Eater, although she speaks it, and the spell's name is unknown to any students until Half-Blood Prince.",
+    "etymology": "Latin levare, 'raise' and corpus, 'body' or 'corpse'."
+  },
+  {
+    "name": "Liberacorpus",
+    "type": "Counter-Spell",
+    "pronunciation": "LIB-er-ah-cor-pus",
+    "description": "Counteracts Levicorpus.",
+    "mentioned": "Harry used the spell in 1996 to counteract Levicorpus he had inadvertently cast on Ron.",
+    "etymology": "Latin liberare, 'to free', and corpus, 'body' or 'corpse'.",
+    "notes": "It is not clear why Levicorpus has a specific counter-spell, and is not neutralised by simply using Finite Incantatem, although this could be due to the fact that Snape invented the spell and therefore made it irreversible except by its specific counter-curse."
+  },
+  {
+    "name": "Locomotor",
+    "define": "Locomotion Charm",
+    "type": "Charm",
+    "pronunciation": "LOH-koh-moh-tor",
+    "description": "The spell is always used with the name of a target, at which the wand is pointed (e.g. 'Locomotor Trunk!'). The spell causes the named object to rise in the air and move around at the will of the caster.",
+    "mentioned": "Used by Nymphadora Tonks in Harry Potter to move Harry's trunk from his room. Filius Flitwick similarly used it to move Sybill Trelawney's trunk after Dolores Umbridge sacked her. Parvati Patil and Lavender Brown used this spell to race their pencil cases around the edges of the table. A variation seen in 1998 is Piertotum Locomotor, which caused the statues of Hogwarts to be animated.",
+    "etymology": "Latin locus (place) and moto, 'set in motion' (passive motor), or English locomotion."
+  },
+  {
+    "name": "Locomotor Mortis",
+    "define": "Leg-Locker Curse",
+    "type": "Curse",
+    "pronunciation": "LOH-koh-moh-tor MOR-tis",
+    "description": "Locks the legs together, preventing the victim from moving the legs in any fashion.",
+    "mentioned": "Used by Draco Malfoy on Neville Longbottom in 1991. Used by Harry Potter on Draco Malfoy, who deflected it, in 1996. One of the spells on Pottermore.",
+    "etymology": "English locomotion, 'movement' + Latin mortis, 'of death'.",
+    "notes": "It is unclear whether or how this spell is related to the Locomotor spell. It could, however, be that the curse 'locks' any part of the body in accordance to where it is pointed, or moves the body into a position of the caster's choosing whilst placing them into an immobile state. It is possible that Draco had pointed his wand at Neville and the curse 'locked' his legs together.  It can be bought at Wiseacre's Wizarding Equipment in Diagon Alley in LEGO Harry Potter: Years 1-4."
+  },
+  {
+    "name": "Lumos",
+    "define": "Wand-Lighting Charm",
+    "type": "Charm",
+    "pronunciation": "LOO-mos",
+    "description": "Creates a narrow beam of light that shines from the wand's tip, like a torch.",
+    "mentioned": "Constantly throughout the series. A stronger version of this spell, Lumos Maxima is performed by Harry Potter at the Dursleys' house in the film adaptation of Harry Potter and the Prisoner of Azkaban, and by both Harry and Dumbledore in the Crystal Cave in the film adaptation of Harry Potter and the Half-Blood Prince. Used in Pottermore.",
+    "etymology": "Latin lumen, 'light'.",
+    "notes": "opposite incantation, Nox, puts the light out."
+  },
+  {
+    "name": "Lumos Duo",
+    "type": "Charm",
+    "pronunciation": "LOO-mos DOO-oh",
+    "description": "Creates an intense beam of light that projects from the wand's tip and can lock-on to various targets, turn hinkypunks solid and cause ghouls to retreat.",
+    "mentioned": "Learned and used by Ron in the video game adaptation of Harry Potter and the Prisoner of Azkaban.",
+    "etymology": "Lumos plus Latin duo, 'two'."
+  },
+  {
+    "name": "Lumos Maxima",
+    "type": "Charm",
+    "pronunciation": "LOO-mos Ma-cks-ima",
+    "description": "Shoots a ball of light at the place pointed, if the Wand is swung.",
+    "mentioned": "First practised by Harry in the home of the Dursleys, then used by Dumbledore to light up the cave of the Horcrux.",
+    "etymology": "Lumos + maxima, Latin 'greatest.'"
+  },
+  {
+    "name": "Lumos Solem",
+    "type": "Charm",
+    "pronunciation": "LOO-mos SO-lem",
+    "description": "Creates a powerful ray of light as bright as the sun.",
+    "mentioned": "Used by Hermione to free Ron from the Devil's Snare. The incantation was only used in the film adaptation of Harry Potter and the Philosopher's Stone.",
+    "etymology": "Derived from two words; the Latin lumen, meaning 'light', and the Latin word for 'sun', which in its accusative case is 'solem'.",
+    "notes": "It is possible that the quality of the light is on the warmer solar end of the spectrum; Considering the known uses that the spell has been put to, it isn't that much of a stretch to presume that the spell is used to conjure Sunlight."
   }
 ]
