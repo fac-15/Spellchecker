@@ -563,5 +563,253 @@
     "type": "Transfiguration",
     "description": "Turns water into rum.",
     "mentioned": "Seamus Finnigan tried to cast it in 1991, and, in his first attempt, he managed to make 'weak tea,' before causing an explosion."
+  },
+  {
+    "name": "Feather-light charm",
+    "type": "Charm",
+    "description": "Makes something lightweight.",
+    "mentioned": "Harry Potter contemplated using this in 1993 to lighten his trunk so that he could carry it by broom to Gringotts, though he decided against it.",
+    "notes": "This charm may have been cast by Hermione Granger on her beaded bag to make it easier to carry, considering the heavy objects within."
+  },
+  {
+    "name": "Ferula",
+    "type": "Healing Spell",
+    "pronunciation": "feh-ROO-lah",
+    "description": "Creates a bandage and a splint.",
+    "mentioned": "Used by Remus Lupin in 1994 to bind Ronald Weasley's broken leg.",
+    "etymology": "Latin ferula means 'walking-stick' or 'splint'."
+  },
+  {
+    "name": "Fianto Duri",
+    "define": "FiantoDurihs",
+    "type": "Charm",
+    "pronunciation": "fee-AN-toh DOO-ree",
+    "description": "A defensive charm which, based on the etymology, strengthens shield spells, and perhaps objects in general, in a similar way to Duro.",
+    "mentioned": "Used to protect a school in 1998.",
+    "etymology": "Latin fiant means 'become' and duri means 'hard'."
+  },
+  {
+    "name": "Fidelius Charm",
+    "type": "Charm",
+    "description": "A complex charm used to hide secret information within the soul of the charm's recipient, who is called a Secret-Keeper. The information is irretrievable unless the Secret-Keeper chooses to reveal it, and only the aforementioned person can do so.",
+    "mentioned": "In 1993, it was explained that when Harry was merely an infant, he and his parents were hidden from Voldemort with this charm; from 1995 onward it was used to protect Grimmauld Place, and in 1998 it was used to protect Shell Cottage.",
+    "etymology": "Latin fidelis, which means 'faithful'.",
+    "notes": "Although the author had previously explained that when a Secret-Keeper dies the secret they held can never be revealed to anyone else[6], in 1997 it is clearly explained that upon the Keeper's death all those who had been told the secret become keepers in turn.  This charm seems to have no effect with regard to animals, as Hedwig found Ron and Hermione in a location that was protected by this charm; however, it is possible that Dumbledore somehow told her, ludicrous though such may seem.  In 1981, Hagrid managed to get to Harry before all the Muggles could look at it; this makes it appear as though the Killing Curse will negate the effect of the Fidelius Charm.  Those who have been told of the secret by secret-keepers still cannot pass the secret on, as proven by Severus Snape and Bellatrix Lestrange."
+  },
+  {
+    "name": "Fiendfyre",
+    "type": "Curse",
+    "description": "Creates great spirits of fire which burn anything in its path, including nearly indestructable substances such as horcruxes. This fire is nearly impossible to control.",
+    "mentioned": "Though there are numerous instances when it may have been used, it was only proven to have been used in 1998 by Vincent Crabbe, who was killed by it."
+  },
+  {
+    "name": "Finestra",
+    "type": "Charm",
+    "pronunciation": "fi-Ness-Trah",
+    "description": "Creates an aperture in a wall or window."
+  },
+  {
+    "name": "Finite",
+    "type": "Counter-Spell",
+    "pronunciation": "fi-NEE-tay",
+    "description": "Terminates spell effects in the vicinity of the caster.",
+    "mentioned": "Remus Lupin used this spell on Neville Longbottom; three years later, Harry Potter used it to prevent an attack on his friend.",
+    "etymology": "From Latin finire, meaning 'to finish'."
+  },
+  {
+    "name": "Finite Incantatem",
+    "define": "General Counter-Spell",
+    "type": "Counter-Spell",
+    "pronunciation": "fi-NEE-tay in-can-TAH-tem",
+    "description": "Terminates all spell effects in the vicinity of the caster.",
+    "mentioned": "Severus Snape used this to restore order to his club. Hermione Granger also used this in the film version of Harry Potter and the Chamber of Secrets to destroy Dobby's rogue Bludger after its Quidditch match.",
+    "etymology": "Latin finire, meaning 'to finish', and incantatem."
+  },
+  {
+    "name": "Finger-removing jinx",
+    "type": "Jinx",
+    "description": "Removes a person's fingers.",
+    "mentioned": "Gunhilda Kneen jinxed her husband with this spell."
+  },
+  {
+    "name": "Firestorm",
+    "type": "Charm",
+    "description": "Produces a ring of fire from the wand tip that can strike targets.",
+    "mentioned": "Albus Dumbledore used this spell to rescue Harry from Inferi in 1997."
+  },
+  {
+    "name": "Flagrante Curse",
+    "type": "Curse",
+    "description": "Causes the cursed object to burn human skin when touched.",
+    "mentioned": "The Lestrange Vault had this curse on it."
+  },
+  {
+    "name": "Flagrate",
+    "type": "Charm",
+    "pronunciation": "fluh-GRAH-tay",
+    "description": "Produces fiery marks which can be used to write.",
+    "mentioned": "Tom Riddle used this spell to write his name; Hermione Granger used it three years later to mark some doors.",
+    "etymology": "From the Latin flagrate, meaning 'a burn'."
+  },
+  {
+    "name": "Flame-Freezing Charm",
+    "type": "Charm",
+    "description": "Causes fire to tickle those caught in it instead of burning them.",
+    "mentioned": "Third year students wrote an essay on the use of this charm in medieval witch-burnings; Wendelin the Weird was burned forty-seven times.",
+    "notes": "This may be the spell used in Floo Network, as well as when Albus Dumbledore set Tom Riddle's wardrobe aflame in 1938."
+  },
+  {
+    "name": "Flipendo",
+    "define": "Knockback Jinx",
+    "type": "Jinx",
+    "pronunciation": "flih-PEN-doh",
+    "description": "Pushes the target, knocks out weaker enemies.",
+    "mentioned": "Taught in Defence Against the Dark Arts, used in every video game thereafter until the third one. Not used in the books or films."
+  },
+  {
+    "name": "Flipendo Duo",
+    "define": "Knockback Jinx Duo",
+    "type": "Jinx",
+    "pronunciation": "flih-PEN-doh DOO-oh",
+    "description": "A more powerful version of Flipendo.",
+    "mentioned": "Seen in 1991, 1992, and 1993."
+  },
+  {
+    "name": "Flipendo Tria",
+    "type": "Jinx",
+    "pronunciation": "flih-PEN-doh TREE-ah",
+    "description": "A more powerful version of Flipendo Duo; it is said to resemble a miniature tornado.",
+    "mentioned": "In 1991 and 1993."
+  },
+  {
+    "name": "Flying Charm",
+    "type": "Charm",
+    "description": "This spell is cast on broomsticks and flying carpets to allow them to fly.",
+    "mentioned": "Draco Malfoy mentioned this spell when insulting Ron Weasley's broomstick, wondering why anyone would charm it."
+  },
+  {
+    "name": "Fumos",
+    "define": "Smokescreen Spell",
+    "type": "Charm",
+    "description": "Used to produce a defensive cloud of dark grey smoke.",
+    "mentioned": "This spell, used in 1993, is covered in The Dark Forces: A Guide to Self-Protection."
+  },
+  {
+    "name": "Fumos Duo",
+    "type": "Charm",
+    "description": "A more powerful version of Fumos.",
+    "mentioned": "In 1993."
+  },
+  {
+    "name": "Furnunculus",
+    "define": "Pimple Jinx",
+    "type": "Jinx",
+    "pronunciation": "fer-NUN-kyoo-luss",
+    "description": "Covers the target in boils (or pimples).",
+    "mentioned": "Used by Harry Potter on Gregory Goyle.",
+    "etymology": "Latin furnunculus, meaning 'petty thief', or English furuncle, a synonym for 'boil'."
+  },
+  {
+    "name": "Fur spell",
+    "type": "Charm",
+    "description": "Causes fur to grow on the victim.",
+    "mentioned": "Fred and George Weasley used this spell on each other."
+  },
+  {
+    "name": "Hair-thickening Charm",
+    "type": "Charm",
+    "description": "Thickens the victim's hair.",
+    "mentioned": "Alicia Spinnet was hexed with this spell in 1996."
+  },
+  {
+    "name": "Harmonia Nectere Passus",
+    "pronunciation": "har-MOH-nee-a NECK-teh-ray PASS-us",
+    "type": "Charm",
+    "description": "Repairs a Vanishing Cabinet.",
+    "mentioned": "Used by Draco Malfoy to mend a cabinet in 1996.",
+    "etymology": "Latin harmonia, which means 'harmony', nectere, which means 'to bind', and passus, which means 'step'."
+  },
+  {
+    "name": "Herbifors",
+    "type": "Transfiguration",
+    "description": "This spell causes flowers to sprout from the victim.",
+    "mentioned": "It can be bought at Wiseacre's Wizarding Equipment."
+  },
+  {
+    "name": "Herbivicus",
+    "define": "Herbivicus Charm",
+    "type": "Charm",
+    "pronunciation": "her-BIV-i-cuss",
+    "description": "Makes plants grow to full size instantaneously.",
+    "mentioned": "In 1994–1995 school year, not in books or films."
+  },
+  {
+    "name": "Hermione's jinx",
+    "type": "Jinx",
+    "description": "Causes a traitor to break out in boils spelling 'SNEAK' on his or her forehead.",
+    "mentioned": "Hermione Granger designed and placed this jinx on the parchment signed by all members of Dumbledore's Army. When Marietta Edgecombe betrayed the D.A. to Dolores Umbridge, the jinx was triggered.",
+    "notes": "This jinx was invented by Hermione, and may have been inspired by Furnunculus."
+  },
+  {
+    "name": "Homenum Revelio",
+    "define": "Human-Presence-Revealing Spell",
+    "type": "Charm",
+    "pronunciation": "HOM-eh-num reh-VEH-lee-oh",
+    "description": "Reveals human presence in the vicinity of the caster.",
+    "mentioned": "Used multiple times by various people in 1997.",
+    "etymology": "Most likely from Latin homo, meaning human, and 'reveal', though the classical Latin form would be hominem instead of homenum, which shows Portuguese influence ('man' is homem in Portuguese)—indeed, Rowling speaks the language.",
+    "notes": "It can be used non-verbally; Dumbledore does so to detect Harry underneath his Invisibility Cloak."
+  },
+  {
+    "name": "Homonculous Charm",
+    "type": "Charm",
+    "description": "Tracks movement of every person in the mapped area.",
+    "mentioned": "Used to create the Marauder's Map."
+  },
+  {
+    "name": "Homorphus Charm",
+    "type": "Charm",
+    "description": "Causes an Animagus or transfigured object to assume its normal shape.",
+    "mentioned": "According to Lockhart, he used it to force the Wagga Wagga Werewolf to take its human form. It was, however, used by Lupin and Sirius on the rat named Scabbers to reveal that he was Peter Pettigrew in Prisoner of Azkaban.",
+    "etymology": "Latin homo meaning 'person' and Greek morphosis meaning 'shaping'"
+  },
+  {
+    "name": "Horton-Keitch",
+    "define": "Braking Charm",
+    "type": "Charm",
+    "description": "This spell was first used on the Comet 140 to prevent players from overshooting the goal posts and from flying off-sides.",
+    "mentioned": "Mentioned in Quidditch Through the Ages as the charm that gave the Comet 140 an advantage over the Cleansweep."
+  },
+  {
+    "name": "Horcrux Curse",
+    "define": "Horcruxes",
+    "type": "Curse",
+    "description": "This spell allows a part of a wizard's soul to pass into an object, thereby making the object a Horcrux. One has to commit murder and take advantage of the soul's 'splitting apart' by this supreme act of evil in order to be able to perform this spell, and it is probably very complex. In 1943, Horace Slughorn described the spell to a young Tom Riddle as encasing a portion of the torn soul and placing it within an object. The spell itself is described in detail in a banned book known as 'Secret of the Darkest Art', which Hermione Granger summoned from Albus Dumbledore's office near the end of their sixth year. According to the text, use of this spell to separate the soul will make the remaining portion of the soul very fragile, and can only be reversed by 'remorse' of the wrongs the creator had made; however, the pain caused by attempting to reverse the creation of a Horcrux can destroy the individual.",
+    "mentioned": "Used by Lord Voldemort while creating his Horcruxes.",
+    "notes": "When J.K.Rowling was asked about what the steps are to create a Horcrux Rowling declined to answer, saying that 'some things are better left unsaid'. However, in the Harry Potter Encyclopedia, it is explained, and the editor is said to have felt like vomiting after reading it."
+  },
+  {
+    "name": "Hot-Air Charm",
+    "type": "Charm",
+    "description": "Causes wand to emit hot air.",
+    "mentioned": "Used by Hermione Granger in 1995 to dry off her robes. Also used shortly after to melt snow. Also was used by Albus Dumbledore in 1997 to dry Harry's and his own robes. Quite possibly a form of Ventus."
+  },
+  {
+    "name": "Hour-Reversal Charm",
+    "type": "Charm",
+    "description": "Reverses small amounts of time (up to five hours).",
+    "mentioned": "Used to create Time-Turners, as mentioned by Professor Saul Croaker; this charm is highly unstable."
+  },
+  {
+    "name": "Hover Charm",
+    "type": "Charm",
+    "description": "Causes the target to float in mid-air for a brief period of time.",
+    "mentioned": "Used by Dobby to levitate a cake."
+  },
+  {
+    "name": "Hurling Hex",
+    "type": "Hex",
+    "description": "Causes brooms to vibrate violently in the air and try to buck their rider off.",
+    "mentioned": "In 1991, Professor Quirrell may have been casting a wordless and wandless version of this spell on Harry's broom during his Quidditch match. Professor Flitwick suggested that Harry's confiscated Firebolt may be jinxed with this spell.,"
   }
 ]
