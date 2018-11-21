@@ -1,0 +1,24 @@
+{
+  "name": "spellchecker",
+  "version": "1.0.0",
+  "description": "It's a spellchecker",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.6",
+    "tape": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fac-15/Spellchecker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fac-15/Spellchecker/issues"
+  },
+  "homepage": "https://github.com/fac-15/Spellchecker#readme"
+}
