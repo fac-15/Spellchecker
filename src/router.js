@@ -34,7 +34,7 @@ const router = (request, response) => {
       js: "application/javascript",
       ico: "public/image/"
     };
-    response.writeHead(200, "Content-Type: text/css");
+    response.writeHead(200, { "Content-Type": `${extensionType[extension]}` });
     response.end(file);
   } else {
     response.writeHead(404);
