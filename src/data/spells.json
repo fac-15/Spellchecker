@@ -1477,5 +1477,159 @@
     "type": "Transfiguration",
     "description": "Causes two objects to be switched for one another",
     "mentioned": "Harry contemplated using this spell against his dragon in the first task of the Triwizard Tournament. ((He considered swapping its fangs for wine gums)). Neville Longbottom misuses the spell, transplanting his ears onto a cactus."
+  },
+  {
+    "name": "Ventus",
+    "define": "Ventus Jinx",
+    "type": "Jinx",
+    "pronounciation": "ven-TUS",
+    "description": "A strong blast of wind is shot from the end of the wand, used to push objects out of the way.",
+    "mentioned": "Used in the video game version of Harry Potter and the Goblet of Fire.",
+    "etymology": "Ventus is a Latin word, meaning 'wind'.",
+    "notes": "Not said aloud in the books or in the films, but quite possibly the Hot-Air Charm Hermione and Dumbledore use in the books to produce a stream of warm air from the tip of their wands to dry off."
+  },
+  {
+    "name": "Ventus Duo",
+    "type": "Jinx",
+    "description": "A stronger version of the Ventus Jinx"
+  },
+  {
+    "name": "Vera Verto",
+    "type": "Transfiguration",
+    "pronounciation": "vair-uh-VAIR-toh",
+    "description": "Turn animals to water goblets.",
+    "mentioned": "Used only once in the series, by Minerva McGonagall in the film adaptation of Harry Potter and the Chamber of Secrets at her Transfiguration class. Also used by Ronald Weasley unsuccessfully in the same class thanks to his damaged wand.",
+    "etymology": "From Latin vera meaning 'right' or 'proper', and verto, meaning “I turn”."
+  },
+  {
+    "name": "Verdillious",
+    "type": "Charm",
+    "pronounciation": "ver-DILL-ee-us",
+    "description": "A spell used to shoot green sparks from the end of the wand.",
+    "mentioned": "Seen in the trading card game."
+  },
+  {
+    "name": "Verdimillious",
+    "type": "Charm",
+    "pronounciation": "VERD-dee-MILL-lee-us",
+    "description": "A spell that shoots green sparks at the end of the wand.",
+    "mentioned": "Used multiple times from 1991 until 1994."
+  },
+  {
+    "name": "Verdimillious Duo",
+    "type": "Charm",
+    "pronounciation": "VERD-dee-MILL-lee-us",
+    "description": "A more powerful version of Verdimillious.",
+    "mentioned": "Learned in first-year defence against the dark arts class."
+  },
+  {
+    "name": "Vipera Evanesca",
+    "type": "Untransfiguration",
+    "pronounciation": "VIYP-er-uh ehv-uhn-EHS-kuh",
+    "description": "Counter Spell for Serpensortia. Seems not to merely 'Vanish', but causes the snake to smoulder from head and tail until it is reduced to a pile of ashes.",
+    "mentioned": "Severus Snape cast this spell in 1992 at the Duelling Club to get rid of a snake that Draco Malfoy had conjured while duelling Harry Potter. Albus Dumbledore also may have used this spell to vanish Voldemort's snake during their Duel in the Ministry Atrium.",
+    "etymology": "Vipera is a genus of venomous vipers, a type of snake. Evanesca likely shares its origin with Evanesco, which means 'disappear' in Latin."
+  },
+  {
+    "name": "Vulnera Sanentur",
+    "type": "Healing Spell, Counter-Curse",
+    "pronounciation": "vul-nur-ah sahn-en-tur",
+    "description": "Causes wounds and gashes to heal up and any blood to return to the victim.",
+    "mentioned": "Used by Severus Snape to heal the wounds of Draco Malfoy caused by the Sectumsempra curse cast by Harry Potter in the film adaptation of Harry Potter and the Half-Blood Prince.",
+    "etymology": "Vulnera Sanentur derives from the Latin vulnus, 'wound,'[11] and sanare, 'to heal'; it is translated 'may the wounds be healed.'[12]"
+  },
+  {
+    "name": "Waddiwasi",
+    "type": "Charm",
+    "pronounciation": "wah-dee-WAH-see",
+    "description": "Appears to launch small objects through the air, though it was only ever used on a wad of chewing gum.",
+    "mentioned": "Used only once through the series, and that was by Professor Remus Lupin, who attacked a poltergeist with a wad of chewing gum, using this spell.",
+    "etymology": "There are many possibilities as to the etymology, least of all English wad, as in 'a wad of gum'.",
+    "notes": "This spell may be the Placement Charm, or else the Oppugno Jinx."
+  },
+  {
+    "define": "Washing up spell",
+    "type": "Charm",
+    "description": "Enchanted dirty dishes to wash themselves.",
+    "mentioned": "It was used non-verbally by Molly Weasley after preparing breakfast for Harry Potter upon his arrival to The Burrow on 4 August, 1992."
+  },
+  {
+    "name": "Wingardium Leviosa",
+    "define": "Levitation Charm",
+    "type": "Charm",
+    "pronounciation": "win-GAR-dee-um lev-ee-OH-sa",
+    "description": "Levitates, moves and manipulates the target(similar to telekinesis); the wand motion is described as 'swish and flick'.",
+    "mentioned": "This spell is taught in early first-year charms classes; this came into good use later in that year, when Ron Weasley performed the spell to knock out a mountain troll; six years later, Harry uses the charm to levitate the side-car of his godfather's flying motorbike; Ron used it again this year to make a twig poke a tree.",
+    "etymology": "'Wingardium' almost certainly contains English wing, meaning 'fly', and Latin arduus, meaning 'high'. 'Leviosa' probably originates from Latin levis, meaning 'light'."
+  },
+  {
+    "name": "Taboo",
+    "type": "Curse",
+    "description": "A jinx which may be placed upon a word or a name, so that whenever that word is spoken, a magical disturbance is created which alerts the caster of the Taboo to the location of the speaker. Any protective enchantments in effect around the speaker are broken when the Tabooed word is spoken aloud.",
+    "mentioned": "In Deathly Hallows, this spell is placed on the word 'Voldemort'; Harry, Ron and Hermione are tracked this way to Tottenham Court Road. Ron tells the other two to stop using the word as he began to fear the name might be a jinx, later discovering it to be a Taboo. Later in the book, Harry accidentally says Voldemort's name again, resulting in the trio being caught by Death Eaters and taken to Malfoy Manor."
+  },
+  {
+    "name": "Tarantallegra",
+    "define": "Dancing Feet Spell",
+    "type": "Curse",
+    "pronounciation": "tuh-RAHN-tuh-LEHG-rah",
+    "description": "Makes victim's legs dance uncontrollably (recalling the tarantella dance).",
+    "mentioned": "First used by Draco Malfoy on Harry in the Duelling Club in 1992.",
+    "etymology": "Italian tarantella, a kind of fast country dance once popular in parts of Italy, supposedly from the frantic motion caused by the bite of a tarantula; and allegro, a musical term meaning 'quick'.",
+    "notes": "It can be bought at Wiseacre's Wizarding Equipment in Diagon Alley in LEGO Harry Potter: Years 1-4."
+  },
+  {
+    "name": "Teleportation Spell",
+    "type": "Spell",
+    "description": "Vanishes objects which then appear elsewhere.",
+    "mentioned": "In 1996, Albus Dumbledore  used this to transport Harry Potter's school supplies, clothes, and owl to the Burrow,"
+  },
+  {
+    "name": "Tentaclifors",
+    "type": "Transfiguration, Jinx",
+    "description": "Transfigures the target's head into a tentacle.",
+    "mentioned": "LEGO Harry Potter: Years 5-7."
+  },
+  {
+    "name": "Tergeo",
+    "type": "Charm",
+    "pronounciation": "TUR-jee-oh",
+    "description": "Siphons liquid",
+    "mentioned": "Hermione Granger used the spell in 1996 to remove blood from Harry's face. It is later used to remove spilled ink from parchment. It was also used in 1997 to clean off a handkerchief by Ron and to dust off a picture of Gellert Grindelwald in Bathilda Bagshot's house by Harry Potter.",
+    "etymology": "Latin tergere, 'wipe off; cleanse'."
+  },
+  {
+    "name": "Titillando",
+    "define": "Tickling Hex",
+    "type": "Hex",
+    "description": "Tickles and weakens",
+    "mentioned": "Harry Potter Trading Card Game, later seen in spells/duels on  Pottermore"
+  },
+  {
+    "define": "Toenail Growth Hex",
+    "type": "Hex",
+    "description": "Causes the toenails to grow at an extreme and uncontrollable rate.",
+    "mentioned": "In 1996, Harry uses this to much applause from classmates.",
+    "notes": "This is a hex that is probably not approved by the Ministry of Magic, as it was invented by Severus Snape. And it is unknown whether 'Toenail Growth Hex' is its real name, as its title was never mentioned."
+  },
+  {
+    "define": "Tooth-growing spell",
+    "type": "Hex",
+    "description": "A spell that re-grows lost teeth.",
+    "mentioned": "Ted Tonks used it to re-grow Harry Potter's tooth that he had lost during the Battle of the Seven Potters."
+  },
+  {
+    "define": "Transmogrifian Torture",
+    "type": "Curse",
+    "description": "Unknown effect upon victim; most likely extreme torture that can lead to death. Given the source, the Torture may not actually exist.",
+    "mentioned": "Gilderoy Lockhart suggested that it was this curse that 'killed' Mrs Norris after she was really found petrified on a torch bracket.",
+    "etymology": "English 'transmogrify', meaning 'to change or alter greatly, often to grotesque effect', possibly implying that the curse changes the shape of the victim to cause pain."
+  },
+  {
+    "define": "Trip Jinx",
+    "type": "Jinx",
+    "description": "A jinx to trip up or impede the target. Precise effects unknown.",
+    "mentioned": "Seen in 1996. It was cast successfully on Harry Potter by Draco Malfoy, when he and other members of the Inquisitorial Squad attempted to round up members of Dumbledore's Army.",
+    "notes": "In LEGO Harry Potter: Years 1-4, it can be bought at Wiseacre's Wizarding Equipment in Diagon Alley."
   }
 ]
