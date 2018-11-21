@@ -811,5 +811,26 @@
     "type": "Hex",
     "description": "Causes brooms to vibrate violently in the air and try to buck their rider off.",
     "mentioned": "In 1991, Professor Quirrell may have been casting a wordless and wandless version of this spell on Harry's broom during his Quidditch match. Professor Flitwick suggested that Harry's confiscated Firebolt may be jinxed with this spell.,"
+  },
+  {
+    "name": "Locomotor Wibbly",
+    "define": "Jelly-Legs Curse",
+    "type": "Curse, Jinx",
+    "pronunciation": "loh-koh-MOH-tor WIB-lee",
+    "description": "Causes the victim's legs to collapse.",
+    "mentioned": "One of the spells mentioned in Curses and Counter-Curses by Vindictus Viridian, used on Harry, practising for the Third Task of the Triwizard Tournament, by Hermione. Also, Draco Malfoy was hit with this jinx (along with another one) at the end of the term."
+  },
+  {
+    "define": "Jelly-Brain Jinx",
+    "type": "Jinx",
+    "description": "Presumably affects the target's mental processes.",
+    "mentioned": "During the September 1999 riot that took place during the Puddlemere United/Holyhead Harpies Quidditch game, a lot of Harpy supporters were using this jinx.",
+    "notes": "This spell may have been the spell that the Death Eaters hit Ron with in Harry Potter and the Order of the Phoenix in the Battle of the Department of Mysteries."
+  },
+  {
+    "define": "Jelly-Fingers Curse",
+    "type": "Curse",
+    "description": "Causes the target's fingers to become almost jelly-like to make it uneasy for the victim to grasp objects.",
+    "mentioned": "After a June 1999 Pride of Portree/Appleby Arrows Quidditch game, the losing Seeker accused his opposite number of putting this curse on him as they both closed in on the Snitch."
   }
 ]
