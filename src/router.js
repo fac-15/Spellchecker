@@ -10,7 +10,7 @@ const router = (request, response) => {
   const url = request.url;
   console.log(url);
   if (url === "/") {
-    //home
+    //home page
 
     const filePath = path.join(__dirname, "..", "index.html");
     console.log(filePath);
@@ -28,6 +28,7 @@ const router = (request, response) => {
   /////////////////
   else if (url.indexOf("public") !== -1) {
     const extension = url.split(".")[1];
+
     const extensionType = {
       html: "text",
       css: "text/css",
