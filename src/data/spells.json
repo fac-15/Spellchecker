@@ -421,5 +421,147 @@
     "description": "Produces an invisible cushion over the target, is used primarily in the manufacturing of broomsticks.",
     "mentioned": "Used by Hermione Granger to cushion her, Harry, and Ron's fall in Gringotts Wizard Bank in 1998.",
     "notes": "This spell may be related to Arresto Momentum and Spongify."
+  },
+  {
+    "name": "Ears to kumquats",
+    "type": "Transfiguration",
+    "description": "This spell transforms the victim's ears into kumquats.",
+    "mentioned": "In 1995, Luna Lovegood read The Quibbler upside down in order to reveal the secret charm, written in Ancient Runes."
+  },
+  {
+    "name": "Ear-shrivelling Curse",
+    "type": "Curse",
+    "description": "Causes the target's ears to shrivel up.",
+    "mentioned": "Sometime between 1989 and 1994, Bill Weasley's pen-friend sent him a hat with this curse on it."
+  },
+  {
+    "name": "Ebublio",
+    "define": "Ebublio Jinx",
+    "type": "Jinx",
+    "pronunciation": "ee-BUB-lee-oh",
+    "description": "Causes the victim to inflate and explode into hundreds of bubbles; it can only be cast if an ally is using Aqua Eructo on the victim simultaneously.",
+    "mentioned": "Used multiple times in 1994."
+  },
+  {
+    "name": "mEngorgio",
+    "define": "Engorgement Charm",
+    "type": "Charm",
+    "pronunciation": "en-GOR-jee-oh",
+    "description": "Causes the target to swell in physical size.",
+    "mentioned": "Rubeus Hagrid used this spell on his pumpkins in 1992; two years later, Barty Crouch Jr cast this spell on a spider to make it easier for students to see when he cast a curse on it. Used on another spider three years later to test a new wand.",
+    "etymology": "The English word engorge means 'swell'.",
+    "notes": "There is much speculation that this spell is the same as the Growth Charm, though this cannot be proven. Note that there is a difference between enlarging and engorging something, similar though they may seem."
+  },
+  {
+    "name": "Engorgio Skullus",
+    "type": "Charm",
+    "pronunciation": "in-GORE-jee-oh SKUH-las",
+    "description": "This hex causes the victim's skull to swell disproportionately; this spell may be a variation of the Engorgement Charm, as they share the first word of the incantation. Its countercurse is Redactum Skullus.",
+    "mentioned": "This spell can be bought at Wiseacre's Wizarding Equipment in Diagon Alley.",
+    "etymology": "See etymology for above entry; 'skullus' is Latin for 'skull'."
+  },
+  {
+    "name": "Entomorphis",
+    "type": "Jinx, Transfiguration",
+    "pronunciation": "en-TOE-morph-is",
+    "description": "This hex is used to transform the target into an insectoid for a short time; it can be bought at Wiseacre's Wizarding Equipment in Diagon Alley.",
+    "mentioned": "Harry Potter contemplated using this hex against Dudley Dursley in 1995, though he decided against it; it was later seen in the LEGO world."
+  },
+  {
+    "name": "Entrail-Expelling Curse",
+    "type": "Curse",
+    "description": "Presumably causes the victim's insides to be ejected from the body, though due to the fact that a portrait of its inventor was hung in a hospital, it is possible this spell's effect is entirely different.",
+    "mentioned": "It was only ever seen once, and that was when Harry Potter visited a hospital in 1996, and he saw the inventor's portrait."
+  },
+  {
+    "name": "Episkey",
+    "type": "Healing Spell",
+    "pronunciation": "ee-PISS-key",
+    "description": "Used to heal relatively minor injuries, such as broken bones and cartilage.",
+    "mentioned": "In 1996, Nymphadora Tonks used this spell to fix Harry's broken nose after Draco Malfoy broke it on the Hogwarts Express (Luna Lovegood did so in the film); Harry, in turn, used it to heal Demelza Robins' swollen lip after Ron punched her during Quidditch practise.",
+    "etymology": "The word comes from Greek 'episkeui' ('επισκευή'), which means 'repair'.",
+    "notes": "This is part of a family of healing spells."
+  },
+  {
+    "name": "Epoximise",
+    "type": "Transfiguration",
+    "pronunciation": "ee-POX-i-mise",
+    "description": "Adheres one object to another, similarly to if they had been glued together.",
+    "mentioned": "As shown in the card game, this spell is often used by students to adhere each other's belongings to their desks (or, unfortunately, their hands).",
+    "etymology": "Epoximise comes from the English word epoxy, which is a type of adhesive.",
+    "notes": "This spell may be the Permanent Sticking Charm or a variation."
+  },
+  {
+    "name": "Erecto",
+    "type": "Charm",
+    "pronunciation": "eh-RECK-toh",
+    "description": "Used to erect a tent or other structure.",
+    "mentioned": "Used by Hermione Granger to construct a shelter for her, Harry Potter, and Ronald Weasley in 1997.",
+    "etymology": "Erectum is past principle of erigere, which is Latin for 'to erect'."
+  },
+  {
+    "name": "Evanesce",
+    "type": "Transfiguration",
+    "pronunciation": "ev-an-ES-key",
+    "description": "Vanishes the target",
+    "mentioned": "Used on a mouse in the card game.",
+    "notes": "This is probably simply an earlier version of the Vanishing Charm, which wasn't developed until later in the series' plot."
+  },
+  {
+    "name": "Evanesco",
+    "define": "Vanishing Spell",
+    "type": "Transfiguration",
+    "pronunciation": "ev-an-ES-koh",
+    "description": "Vanishes the target; the best description of what happens to it is that it goes 'into non-being, which is to say, everything'.",
+    "mentioned": "Used multiple times in 1995.",
+    "etymology": "From 'evanescene', meaning 'something that is fleeting or disappears.'"
+  },
+  {
+    "name": "Everte Statum",
+    "type": "Spell",
+    "pronunciation": "ee-VER-tay STAH-tum",
+    "description": "Throws the victim backward, similarly to if they'd been thrown.",
+    "mentioned": "Draco Malfoy used this spell on Harry Potter in 1992.",
+    "etymology": "The Latin words everte, which means 'to throw out' and statua, from the same language, meaning 'image'."
+  },
+  {
+    "name": "Expecto Patronum",
+    "define": "Patronus Charm",
+    "type": "Charm",
+    "pronunciation": "ecks-PECK-toh pah-TROH-numb",
+    "description": "This charm is a defensive spell which will conjure a spirit-like incarnation of their positive emotions to defend against dark creatures; it can also send messages to other witches or wizards. It seems one's Patronus will take the form of something important to the caster, and can change when one has undergone a period of heightened emotion.",
+    "mentioned": "Taught to Harry by Professor Lupin; Harry later taught Dumbledore's Army this charm. This is the only known spell effective against Dementors or Lethifolds.",
+    "etymology": "Patronus means 'protector' in Latin; in archaic Latin, it means 'father'; considering the form Harry's takes, this is interesting. The Latin word expecto means 'I await'"
+  },
+  {
+    "name": "Expelliarmus",
+    "define": "Disarming Charm",
+    "type": "Charm",
+    "pronunciation": "ex-PELL-ee-ARE-muss",
+    "description": "Causes whatever the victim is holding to fly away, knocks out an opponent if used too forcefully. Harry Potter's special spell.",
+    "mentioned": "Used multiple times from the second book onwards.",
+    "etymology": "Probably a combination of Latin expello, meaning 'expel', and arma, meaning 'weapon'.",
+    "notes": "Mentioned in Doctor Who starring David Tennant and Freema Agyeman, second episode of third series. It was also used differently in the Prisoner of Askaban PS2 video game, in which a pink coloured shield is formed to protect against jinxes."
+  },
+  {
+    "name": "Expulso",
+    "define": "Expulso Curse",
+    "type": "Curse",
+    "pronunciation": "ecks-PUHL-soh",
+    "description": "Provokes an explosion, unique in that it uses pressure to do so as opposed to heat.",
+    "mentioned": "Used by Antonin Dolohov during a fight in a cafe in 1997.",
+    "etymology": "From expulsum, which is past principle of expellere, which means 'expel'."
+  },
+  {
+    "name": "Extinguishing spell",
+    "type": "Spell",
+    "description": "Puts out fires.",
+    "mentioned": "Charlie Weasley and his friends would use this spell should something go wrong in the tournament."
+  },
+  {
+    "name": "Eye of rabbit, harp string hum, turn this water into rum",
+    "type": "Transfiguration",
+    "description": "Turns water into rum.",
+    "mentioned": "Seamus Finnigan tried to cast it in 1991, and, in his first attempt, he managed to make 'weak tea,' before causing an explosion."
   }
 ]
