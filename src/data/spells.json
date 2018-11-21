@@ -254,5 +254,172 @@
     "type": "Charm",
     "description": "Produces a stream of multicoloured, non-bursting bubbles; there are two similar spells.",
     "mentioned": "Used by Professor Flitwick to decorate some trees; the bubbles in this instance were golden. Used the following year by Ron Weasley when he broke his wand; these bubbles were purple."
+  },
+  {
+    "name": "Calvario",
+    "name": "Hair-Loss Curse",
+    "type": "Curse",
+    "pronunciation": "cal-VORE-ee-oh",
+    "description": "This spell causes the victims hair to fall out.",
+    "mentioned": "In the LEGO Harry Potter: Years 5-7, the book Curses and Counter-Curses by Vindictus Viridian mentions this spell, and it can be bought from Wiseacres Wizarding Equipment in Diagon Alley.",
+    "etymology": "From Latin calvus = \"bald\"."
+  },
+  {
+    "name": "Cantis",
+    "type": "Jinx",
+    "pronunciation": "CAN-tiss",
+    "description": "Causes the victim to burst uncontrollably into song.",
+    "mentioned": "This spell can be bought in Wiseacres Wizarding Equipment in LEGO Harry Potter: Years 5-7. Used by the Hogwarts professors to enchant suits of armour.",
+    "etymology": "Cantare is Latin for 'sing'."
+  },
+  {
+    "name": "Carpe Retractum",
+    "define": "Seize and Pull Charm",
+    "type": "Charm",
+    "pronunciation": "CAR-pay ruh-TRACK-tum",
+    "description": "Produces a supernatural rope from the casters wand, which will pull a target toward the caster.",
+    "mentioned": "In 1993 and 1994 by Harry Potter and Ron Weasley.",
+    "etymology": "From the Latin carpe, meaning 'to seize' and retracto, meaning 'I draw back'."
+  },
+  {
+    "name": "Cascading Jinx",
+    "type": "Jinx",
+    "description": "An offensive spell used to defeat multiple enemies.",
+    "mentioned": "This spell was seen only in Harry Potter and the Deathly Hallows: Part 1 (video game)."
+  },
+  {
+    "name": "Caterwauling Charm",
+    "type": "Charm",
+    "description": "Anyone entering the perimeter of this spell sets off a high-pitched shriek. This spell may be related to the Intruder Charm.",
+    "mentioned": "This spell was cast by the Death Eaters over Hogsmeade Wizarding Village to protect against intruders in 1998."
+  },
+  {
+    "name": "Cauldron to Sieve",
+    "type": "Transfiguration",
+    "description": "Transforms cauldrons, and presumably all pots and containers of that sort, into sieves.",
+    "mentioned": "This spell was only seen in the Harry Potter Trading Card Game."
+  },
+  {
+    "name": "Cave Inimicum",
+    "type": "Charm",
+    "pronunciation": "KAH-way ih-NIH-mih-kum",
+    "description": "Based on the etymology, it may warn the caster of any approaching enemies, similar to a Caterwauling Charm.",
+    "mentioned": "Used multiple times by Hermione Granger in 1997 and 1998 to protect the tent she shared with Ron Weasley and Harry Potter.",
+    "etymology": "The incantation is a Latin phrase which translates to 'beware of the enemy'."
+  },
+  {
+    "name": "Cheering Charm",
+    "type": "Charm",
+    "description": "Causes the person upon whom the spell is cast to become contented and happy, though heavy-handedness with it causes the victim to break into an uncontrollable laughing fit.",
+    "mentioned": "Taught to third-year charms classes, part of the written O.W.L. The spell was invented by Felix Summerbee."
+  },
+  {
+    "name": "Cistem Aperio",
+    "type": "Charm",
+    "pronunciation": "SIS-tem uh-PE-ree-o",
+    "description": "Opens chests and boxes",
+    "mentioned": "This spell was used by Tom Riddle to open the chest in which Aragog was hidden. It was only seen in the film.",
+    "etymology": "Aperio is Latin for 'uncover' or 'open'; Cista is Latin for 'trunk' or 'chest'."
+  },
+  {
+    "name": "Colloportus",
+    "define": "Locking Spell",
+    "type": "Charm",
+    "pronunciation": "cul-loh-POR-tus",
+    "description": "Locks doors, and presumably all things that can be locked; it is unknown whether the counterspell is required, or if a key could open it.",
+    "mentioned": "Used by Hermione Granger in 1996 in an attempt to prevent the Death Eaters that were following her from catching up.",
+    "etymology": "Perhaps a portmanteau of the Latin words colligere, which means 'gather' and porta, which means 'gate'.",
+    "notes": "This spell can easily be countered with Alohomora."
+  },
+  {
+    "name": "Colloshoo",
+    "define": "Stickfast Hex",
+    "type": "Hex",
+    "pronunciation": "cul-loh-SHOE",
+    "description": "Adheres the victims shoes to the ground with some sort of adhesive ectoplasm.",
+    "mentioned": "This spell is mentioned twice, once as having been used on Severus Snape during a potions class, the other when one reads Curses and Counter-Curses by Vindictus Viridian.",
+    "etymology": "The suffix 'shoo' is a phonetic spelling of English 'shoe'; the prefix collo may come from Greek 'κολάω,κολώ' (pronounced 'colas','cols'), which means 'to glue'."
+  },
+  {
+    "name": "Colovaria",
+    "define": "Colour Change Charm",
+    "type": "Charm",
+    "pronunciation": "co-loh-VA-riah",
+    "description": "Changes the targets colour.",
+    "mentioned": "The spell can be bought in Wiseacres Wizarding Equipment in Diagon Alley. Used by fifth-years in their OWLs.",
+    "etymology": "Almost certainly a combination of English 'colour' and 'vary'."
+  },
+  {
+    "name": "Confringo",
+    "define": "Blasting Curse",
+    "type": "Curse",
+    "pronunciation": "kon-FRING-goh",
+    "description": "Causes anything that the spell comes into contact with to explode, and presumably thereafter burst into flame.",
+    "mentioned": "Used by Harry Potter to destroy the side-car of a motorbike in which he was riding during a battle against some Death Eaters in 1997; it was later used by Hermione Granger in an attempt to kill Nagini and facilitate an escape from Godrics Hollow.",
+    "etymology": "The incantation is direct Latin for 'destroy'.",
+    "notes": "This spell seems to use heat for its explosion, while Expulso uses pressure instead."
+  },
+  {
+    "name": "Confundo",
+    "define": "Confundus Charm",
+    "type": "Charm",
+    "pronunciation": "con-FUN-doh",
+    "description": "Causes the victim to become confused and befuddled.",
+    "mentioned": "In 1994, Severus Snape asserted that Harry, Ron and Hermione had this charm cast on them so that they would believe Sirius Blacks claim of innocence; used two years later by Hermione to allow Ron to join the Gryffindor Quidditch team. It was used multiple times in 1997 and 1998.",
+    "etymology": "The incantation, when non-capitalized, means 'I confuse'; the title may derive from the Latin confundere, meaning 'to confuse' or 'to perplex'."
+  },
+  {
+    "name": "Conjunctivitis Curse",
+    "type": "Curse",
+    "description": "Due to the name (conjunctivitis is another word for 'pink eye', a disease which forms a scabby inflammation over the eye), it is presumed this curse causes great pain to the victims eyes.",
+    "mentioned": "It was suggested by Sirius Black in his letter to Harry for him to use this spell on a dragon. Olympe Maxime used this spell on some giants in 1995."
+  },
+  {
+    "name": "Cornflake skin spell",
+    "description": "This spell causes the victims skin to appear as though it was coated in cornflakes.",
+    "mentioned": "In 1996, an unnamed student went to the hospital for treatment after he was hit with it, which was presumably done in retaliation for the Inquisitorial Squad's recent behaviour."
+  },
+  {
+    "name": "Cracker Jinx",
+    "type": "Jinx",
+    "description": "This spell is used to conjure exploding wizard crackers; it can be used in duelling to harm the opponent, but the force of the explosion may also affect the caster."
+  },
+  {
+    "name": "Cribbing Spell",
+    "type": "Spell",
+    "description": "This spell, which may possibly be a charm, is used to assist the caster in cheating on written papers, tests, and exams. It is possible that these spells can negate anti-cheating spells.",
+    "mentioned": "In 1991, an unnamed Slytherin student asked his fellow students whether any of them knew any good cribbing spells."
+  },
+  {
+    "name": "Crinus Muto",
+    "type": "Transfiguration",
+    "description": "This spell can change the colour and style of ones hair.",
+    "mentioned": "In the Harry Potter Lego video games.",
+    "notes": "This maybe be the spell that causes Harry to turn his eyebrow yellow in 1996."
+  },
+  {
+    "name": "Crucio",
+    "define": "Cruciatus Curse",
+    "article": "Unforgivable Curses",
+    "type": "Curse",
+    "pronunciation": "KROO-shea-oh",
+    "description": "Inflicts intense pain on the recipient of the curse; the pain is described as having hot knives being driven into the victim. It cannot be cast successfully by a person who is doing so out of pure spite or anger; one must feel a true desire to cause the victim pain. If one casts this spell, he or she will receive a life sentence in Azkaban prison for it, as with the other two Unforgivable Curses.",
+    "mentioned": "Used multiple times from the fourth book onward.",
+    "etymology": "Latin crucio means 'I torture'."
+  },
+  {
+    "name": "Mucus ad Nauseam",
+    "define": "Curse of the Bogies",
+    "type": "Curse",
+    "pronunciation": "MEW-cuss add NOH-see-um",
+    "description": "Gives the recipient a massive head cold and an extremely runny nose.",
+    "mentioned": "Taught by Professor Quirrell to his first-year class, used later that year by Draco Malfoy on Harry Potter."
+  },
+  {
+    "name": "Cushioning Charm",
+    "type": "Charm",
+    "description": "Produces an invisible cushion over the target, is used primarily in the manufacturing of broomsticks.",
+    "mentioned": "Used by Hermione Granger to cushion her, Harry, and Ron's fall in Gringotts Wizard Bank in 1998.",
+    "notes": "This spell may be related to Arresto Momentum and Spongify."
   }
 ]
