@@ -254,5 +254,164 @@
     "type": "Charm",
     "description": "Produces a stream of multicoloured, non-bursting bubbles; there are two similar spells.",
     "mentioned": "Used by Professor Flitwick to decorate some trees; the bubbles in this instance were golden. Used the following year by Ron Weasley when he broke his wand; these bubbles were purple."
-  }
+  },
+  {
+    "name": "Defodio",
+    "define": "Gouging Spell",
+    "type": "Charm",
+    "pronunciation": "deh-FOH-dee-oh",
+    "description": "This spell allows the caster to gouge large chunks out of the target.",
+    "mentioned": "Used by The Trio to escape from a bank in 1998 while riding a dragon. It was later used by Harry to write the epitaph for Dobby, who had been killed.",
+    "etymology": "The incantation is Latin for 'I dig'."
+},
+{
+    "name": "Deletrius",
+    "define": "Eradication Spell",
+    "type": "Charm",
+    "pronunciation": "deh-LEE-tree-us",
+    "description": "Disintegrates something",
+    "mentioned": "This spell was only ever seen in 1994 when Amos Diggory used Prior Incantato to detect that Winky had cast Morsmordre using Harry Potters wand."
+    "etymology": "Latin delere, meaning 'to destroy', and English 'detritus', meaning rubble."
+}, 
+{
+    "name": "Densaugeo", 
+    "define": "Tooth-Growing Spell",
+    "type": "Hex",
+    "pronunciation": "den-SAW-jee-oh",
+    "description": "This hex causes the victim's teeth to grow rapidly, but can also be used to restore lost teeth, as proven when Ted Tonks did so in 1997 for Harry Potter.",
+    "mentioned": "Introduced in 1994, when Draco Malfoys spell rebounded upon Hermione Granger; her teeth were past her collar before she was forced to run to the hospital to get them shrunk. Later used in 1997 to mend Harry Potters broken teeth.",
+    "etymology": "From Latin dens, meaning 'tooth', and augeo, meaning 'I enlarge'; essentially, it means 'I enlarge the tooth'."    
+}, 
+{
+    "name": "Depulso", 
+    "define": "Banishing Charm",
+    "type": "Counter-Charm",
+    "pronunciation": "deh-PUL-soh",
+    "description": "This spell is used to make the target fly toward a specific location; it is the opposite of the summoning charm.",
+    "mentioned": "Although it is learned in the fourth-year charms class at Hogwarts, it is used multiple times in 1993, as well as in 1995.",
+    "etymology": "From the Latin depulsio, meaning 'drive away'."
+},
+{
+    "name": "Descendo", 
+    "type": "Charm",
+    "pronunciation": "deh-SEN-doh",
+    "description": "Causes the target to move downwards."
+    "mentioned": "In 1997, it was used by Ron to magically cause the stairs in his bedroom, which lead to his familys attic, to descend; later that year, Crabbe used it in an attempt to cause a wall of rubbish behind which Ron was hiding to fall on him.",
+    "etymology": "Descendo is Latin for 'I descend'."
+}, 
+{
+    "name": "Deprimo", 
+    "type": "Charm",
+    "pronunciation": "DEE-prih-moh",
+    "description": "This spell places immense downward pressure on the target, which may result in the violent fracturing of said target.",
+    "mentioned": "Hermione Granger blasted a hole through the living room floor of Xenophilius Lovegoods house in 1998 using this spell.",
+    "etymology": "The incantation, when non-capitalized, means 'to depress' or 'depress'."
+},
+{
+    "name": "Diffindo",
+    "define": "Severing Charm",
+    "type": "Charm",
+    "pronunciation": "dih-FIN-doh",
+    "description": "Rips, tears, shreds, or otherwise physically damages the target."
+    "mentioned": "Used twice in 1994, the first time being by Harry Potter to cut Cedric Diggorys bag in order to talk to the latter, and the second time being by Ron Weasley to cut the lace from the cuffs of his dress robes in an attempt to make them seem less feminine. The spell was used a third time by Harry to swap the covers of his second-hand and brand-new copies of Advanced Potion-Making.",
+    "etymology": "Latin diffindere, meaning 'to divide' or 'to split'."
+}, 
+{
+    "name": "Diminuendo",
+    "type": "Charm",
+    "pronunciation": "dim-in-YEW-en-DOUGH",
+    "description": "Forces the target to shrink.",
+    "mentioned": "Performed by Nigel Wolpert in 1995.",
+    "etymology": "The incantation derives from the musical term diminuendo, meaning 'a gradual decrease of the volume of sound'."
+},
+{
+    "name": "Dissendium",
+    "type": "Charm",
+    "pronunciation": "dih-SEN-dee-um",
+    "description": "Although the only known canonical effect is to open secret passageways, its possible, based on its use in 1997, that it opens things in general.",
+    "mentioned": "Used multiple times in 1993 to open the statue of Gunhilda of Gorsemoor, then again four years later in a failed attempt to open Salazar Slytherins Locket.",
+    "etymology": "There are numerous suggestions.",
+    "notes": "This may not be a spell at all in the strict sense but a password; however, when used for the statue of the hump-backed witch, one must tap the statue with their wand, indicating that it is in fact a spell."   
+},
+{
+    "name": "Disillusionment Charm",
+    "type": "Charm", 
+    "description": "Causes the target to blend seamlessly in with its surroundings, like a chameleon.",
+    "mentioned": "Used and mentioned multiple times from 1995 onward."
+},
+{
+    "name": "Draconifors",
+    "type": "Transfiguration",
+    "pronunciation": "drah-KOH-nih-fors",
+    "description": "Transforms the target into a dragon.",
+    "mentioned": "Used multiple times in 1993 and 1994.",
+    "etymology": "From the Latin word draco, meaning 'dragon', and forma meaning 'shape'."
+},
+{
+    "name": "Drought Charm",
+    "type": "Charm",
+    "description": "Causes puddles and ponds to dry up. Though not powerful enough to drain a body of water like a lake.",
+    "mentioned": "Mentioned by Ronald Weasley in 1994 when Harry was getting ready for the Second Task of The Triwizard Tournament."
+},
+{
+    "name": "Ducklifors",
+    "type": "Transfiguration, Jinx",
+    "pronunciation": "DUCK-lih-fors",
+    "description": "Transforms the target into a duck.",
+    "etymology": "From the English duck, and the Latin forma meaning 'shape'.",
+    "mentioned": "Multiple times in 1994 and 1995."
+},
+{
+    "name": "Duro", 
+    "type": "Charm",
+    "pronunciation": "DOO-roh",
+    "description": "This charm transforms the target into solid stone.",
+    "mentioned": "Used by Hermione Granger in 1998 while escaping from Death Eaters in the Battle of Hogwarts.",
+    "etymology": "In Latin duro means 'harden'."
+},
+{
+  "name": "Glacius",
+  "type": "Charm",
+  "pronunciation": "GLAY-shuss",
+  "description": "Transforms the target into solid albeit normal ice.",
+  "mentioned": "Used in the video games. Never used in the books or films.",
+  "etymology": "From Latin glacies, which means 'ice'."
+},
+{
+  "name": "Glacius Duo",
+  "type": "Charm",
+  "pronunciation": "GLAY-shuss DOO-oh",
+  "description": "A more powerful version of Glacius.",
+  "mentioned": "Used in the video games. Never used in the books or films.",
+  "etymology": "From Latin glacies, which means 'ice'."
+},
+{
+  "name": "Glacius Tria",
+  "type": "Charm",
+  "pronunciation": "GLAY-shuss TREE-ah",
+  "description": "A more powerful version of Glacius Duo.",
+  "mentioned": "Used in the video games. Never used in the books or films.",
+  "etymology": "From Latin glacies, which means 'ice'."
+},
+{
+  "name": "Glisseo",
+  "type": "Charm",
+  "pronunciation": "GLISS-ee-oh",
+  "description": "Causes the steps on a stairway to flatten into a slide.",
+  "mentioned": "Used by Hermione Granger to escape from Death Eaters.",
+  "etymology": "Probably derived from French glisser, meaning 'to slide'."  
+},
+{
+  "name": "Green Sparks",
+  "description": "Shoots green sparks from the wand.",
+  "mentioned": "Taught in Defence Against the Dark Arts; When Hagrid, Harry and Hermione try to find an injured unicorn, Hagrid says that if it is found, they must send up green sparks."
+},
+{
+  "name": "Gripping Charm",
+  "type": "Charm",
+  "description": "Helps someone grip something more effectively.",
+  "mentioned": "Used on Quaffles to help Chasers carry them."
+},
+
+
 ]
