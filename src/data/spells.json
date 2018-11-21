@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Aberto",
+    "type": "Charm",
+    "pronunciation": "Uh-bare-toe",
+    "description": "A spell presumably used to open objects such as doors or windows."
+  },
+  {
+    "name": "Accio",
+    "define": "Summoning Charm",
+    "type": "Charm",
+    "pronunciation": "Various suggestions have been made, including: (AK-ee-oh) or (AK-see-oh)-film, (AK-see-oh)-UK audio book and video game, (AS-see-oh)-US audio book, and (AT-chee-oh)-Anglo-Catholic pronunciation Accio cup",
+    "description": "This charm summons an object to the caster, potentially over a significant distance. It can be used in two ways, either by casting the charm and then naming the object desired, or by pointing your wand at the desired object during or immediately following the incantation to 'pull' the target toward the caster, in either case, the caster must concentrate on the object they wish to summon towards them in order for the charm to succeed. The caster does not necessarily need to know the location of the target if they say the name of the object to be summoned, such as when Hermione Granger summoned some books from Dumbledores office simply by saying 'Accio Horcrux books!' while in Gryffindor Tower.",
+    "mentioned": "Harry Potter summoned his broom to complete the first task of the Triwizard Tournament in 1994, and to summon the Portkey to escape Voldemort and the Death Eaters in the Little Hangleton Graveyard in 1995. Also, in the Battle of the Seven Potters Harry summoned Hagrid when he fell. Molly Weasley used it to get the twins candy. The twins used it to summon their brooms from Dolores Umbridges office",
+    "notes": "The summoning charm is limited only to items and small animals, as it was shown to be incapable of summoning people, it is also possible to bewitch items to become impervious to this spell.",
+    "etymology": "The Latin word accio means 'I call' or 'I summon'."
+  },
+  {
+    "name": "Age Line",
+    "type": "Charm",
+    "description": "Creates a thin, shimmering golden line around the target that is impassable by those below a set age. It seems that ageing potions are useless against the line, and it appears that the lines functions on either calendar or mental age.",
+    "mentioned": "Used by Albus Dumbledore to stop underage students from entering their names into the Goblet of Fire."
+  },
+  {
+    "name": "Aguamenti",
+    "define": "Water-Making Spell",
+    "type": "Charm / Conjuration",
+    "pronunciation": "AH-gwah-MEN-tee",
+    "description": "Produces a fountain or jet of water from the wand tip.",
+    "mentioned": "Used by Fleur Delacour in 1994 to extinguish her skirt, which had caught flame during a fight against a dragon. Harry used this spell twice in 1997, both on the same night; once to attempt to provide a drink for Dumbledore, then again to help douse Hagrids hut after it was set aflame by Thorfinn Rowle, who used the Fire-Making Spell.",
+    "etymology": "Possibly a hybrid of Latin words aqua, which means 'water', and mentis, which means 'mind'."
+  },
+  {
+    "name": "Alarte Ascendare",
+    "type": "Charm",
+    "pronunciation": "A-LAR-tey ah-SEN-deh-rey",
+    "description": "Shoots the target high into the air.",
+    "mentioned": "Used only once, and that was by Gilderoy Lockhart in 1992",
+    "etymology": "Ascendere is a Latin infinitive meaning 'to go up,' 'to climb,' 'to embark,' 'to rise(figuratively);'this is the origin of the English word 'ascend'."
+  },
+  {
+    "name": "Albus Dumbledores Forceful Spell",
+    "type": "Spell",
+    "description": "This spell was, supposedly, quite powerful as when it was cast, the opponent was forced to conjure a silver shield to deflect it.",
+    "mentioned": "This incantation was used only once throughout the series, and that was by Dumbledore in the Ministry of Magic, immediately following the Battle of the Department of Mysteries on 17 June, 1996, while he duelled Voldemort."
+  },
+  {
+    "name": "Alohomora",
+    "define": "Unlocking Charm",
+    "type": "Charm",
+    "pronunciation": "al-LOH-ha-MOHR-ah",
+    "description": "Used to open and unlock doors; it can unseal doors upon which the Locking Spell has been cast, although it is possible to bewitch doors to resist the spell.",
+    "mentioned": "Used by Hermione Granger in 1991 to allow her and her friends to access the Third-floor corridor] at her school, which was at the time forbidden; she used it again two years later to free Siriuss cell in her teachers prison room.",
+    "etymology": "The incantation is derived from the West African Sidiki dialect used in geomancy; it means 'friendly to thieves', as stated by the author in testimony during a court case.",
+    "notes": "Whilst in the first book, when the spell is cast the lock or door must be tapped once, in the fifth, a healer simply points her wand at the door to cast it, and on Pottermore the wand motion is seen as a backward 'S'."
+  },
+  {
+    "name": "Anapneo",
+    "type": "Healing Spell",
+    "pronunciation": "ah-NAP-nee-oh",
+    "description": "Clears the targets airway, should they find it blocked.",
+    "mentioned": "Used only by Horace Slughorn, cast upon Marcus Belby when the latter choked on a pheasant in 1996.",
+    "etymology": "From the Greek verb anapneo, meaning 'I breathe in'; this and Episkey are the only spells obviously derived from Greek."
+  },
+  {
+    "name": "Anteoculatia",
+    "type": "Hex",
+    "pronunciation": "AN-tea-oh-cuh-LAY-chee-a",
+    "description": "Anteoculatia is a hex which turns a persons hair into antlers.",
+    "mentioned": "This spell was used to make Pansy Parkinson grow antlers in 1996."
+  },
+  {
+    "name": "Anti-Jinx",
+    "type": "Counter-Spell",
+    "description": "Prevents the effects of a jinx over one target object or animal.",
+    "mentioned": "In the summer of 1995, Arthur Weasley was required to perform an antijinx on a regurgitating toilet."
+  },
+  {
+    "name": "Anti-Cheating Spell",
+    "type": "Charm",
+    "description": "Cast on parchment and quills to prevent the writer from cheating while writing answers.",
+    "mentioned": "Used near exam times at Hogwarts in at least 1991 and 1995."
+  },
+  {
+    "name": "Anti-Disapparition Jinx",
+    "type": "Jinx",
+    "description": "Used to prevent Disapparating in an area for a time; presumably used to trap an enemy in an area, is probably related to the Anti-Apparition Charm.",
+    "mentioned": "Used by Albus Dumbledore to trap some Death Eaters in the Department of Mysteries in 1996. Also mentioned that nobody can disapparate from Hogwarts; it is due to this jinx."
+  },
+  {
+    "name": "Antonin Dolohovs curse",
+    "type": "Curse",
+    "description": "Based on what is seen of the effects, it is presumed to be a lethal spell when used under the right conditions, it also causes severe internal injury.",
+    "mentioned": "Used by Antonin Dolohov during the Battle of the Department of Mysteries twice.  Also used ineffectively (the silence charm weakened the curse and saved Hermione) under a silence charm on Hermione Granger (which incapacitated her instantly and required her to take ten potions a day for some time) and again, ineffectively, on Harry Potter."
+  },
+  {
+    "name": "Aparecium",
+    "define": "Revealing Charm",
+    "type": "Charm",
+    "pronunciation": "AH-par-EE-see-um",
+    "description": "This spell is used to reverse concealing charms, and can presumably render invisible ink visible. It is covered in a rather old spellbook. It may be related to Specialis Revelio.",
+    "mentioned": "Only ever used (to no avail) in 1993 by Hermione Granger to attempt to reveal any hidden writing in a diary.",
+    "etymology": "Latin apparere, meaning 'to appear'; -ium and -cium are common Latin noun endings."
+  },
+  {
+    "name": "Appare Vestigium",
+    "type": "Charm",
+    "pronunciation": "app-PAH-ray vest-EE-gee-um",
+    "description": "This spell is used to reveal footprints and track marks."
+  },
+  {
+    "name": "Apparate",
+    "pronunciation": "aa-puh-ray-t",
+    "description": "Teleportation spell, used to teleport the user and anyone touching them to a location. The destination is one that the primary user has been to or seen in some fashion previously. Any items on the individuals being apparated are also teleported. Does not require the use of an incantation or wand movement to perform.",
+    "mentioned": "Used multiple times by various people. In year six, Dumbledore uses it to take Harry to visit Slughorn. Year seven, Hermione, Ron, and Harry use it as they search for the horcruxes."
+  },
+  {
+    "name": "Aqua Eructo",
+    "define": "Aqua Eructo Charm",
+    "type": "Charm",
+    "pronunciation": "A-kwa ee-RUCK-toh",
+    "description": "This spell is used to create, and control, a jet of clear water from the tip of the wand; it is probably related to Aguamenti.",
+    "mentioned": "Used multiple times to extinguish fires in 1994.",
+    "etymology": "Aqua means, in Latin, water. Eructo is a verb meaning 'I raise'; roughly translated, it means 'I raise water'."
+  },
+  {
+    "name": "Arania Exumai",
+    "type": "Spell",
+    "pronunciation": "ah-RAHN-ee-a EKS-su-may",
+    "description": "This spell is used to blast away Acromantulas and, presumably, all other arachnids.",
+    "mentioned": "Harry uses this spell in The Forbidden Forest to defend he and his friend from some spiders that are attacking them. He learned the spell from a diary, who attempted to use it in a memory.",
+    "etymology": "From the Latin aranea, meaning 'spider', and exuo, meaning 'I lay aside'."
+  },
+  {
+    "name": "Arresto Momentum",
+    "type": "Charm",
+    "pronunciation": "ah-REST-oh mo-MEN-tum",
+    "description": "Used to decrease the velocity of a moving target; it should be noted that it can be used on multiple targets, as well as on the caster himself.",
+    "mentioned": "Used by Dumbledore to save one of his students from a fall in 1993; Hermione Granger used it, to little effect, in 1998 to cushion an otherwise deadly fall.",
+    "etymology": "Likely the combination of the Anglo-French arester, meaning 'to bring to a stop' and the Latin momentum, meaning 'the force or strength gained whilst moving'; the literal translation hence is 'Bring the force or strength gained whilst moving to a stop'."
+  },
+  {
+    "name": "Arrow-shooting spell",
+    "type": "Conjuration",
+    "description": "Fires arrows from the casters wand.",
+    "mentioned": "The spell used to be used by Appleby Arrows supporters at Quidditch matches to show their support for their teams; however, the British and Irish Quidditch League banned the use of the spell at matches when referee Nugent Potts was pierced through the nose with a stray arrow in 1894."
+  },
+  {
+    "name": "Ascendi",
+    "type": "Charm",
+    "pronunciation": "ah-SEN-dee-oh",
+    "description": "Lifts the caster high into the air.",
+    "mentioned": "Used by Harry Potter in the Second Task of the Triwizard Tournament to propel him to the surface of the lake in 1995.",
+    "etymology": "Derived from Latin ascendo, meaning 'to climb'."
+  },
+  {
+    "name": "Avada Kedavra",
+    "define": "Killing Curse",
+    "article": "Unforgivable Curses",
+    "type": "Curse",
+    "pronunciation": "ah-VAH-dah keh-DAV-rah",
+    "description": "Causes instant death to the victim wherever it hits on the body, is accompanied by a flash of green light and a rushing noise; there is no known counter-curse, although there are a number of ways to prevent death by it, such as hitting it with another spell in mid-flight, dodging it, or interrupting the caster. It is one of the three Unforgivable Curses.  Harry Potter was saved from this spell a number of times, both by his mothers sacrifice, because he was an accidental horcrux, and because his wand and his enemys were made of the same core.",
+    "mentioned": "First said (not by name) in 1991, during the flashback while Hagrid described his parents deaths to Harry; next, the first part of the incantation was said by Lucius Malfoy when he tried to kill Harry, and numerous times in every book following.",
+    "etymology": "During an audience interview at the Edinburgh Book Festival on 15 April, 2004 J. K. Rowling said 'Does anyone know where avada kedavra came from? It is an ancient spell in Aramaic, and it is the original of abracadabra, which means 'let the thing be destroyed'. Originally, it was used to cure illness and the 'thing' was the illness, but I decided to make the 'thing' as in the person standing in front of me. I take a lot of liberties with things like that. I twist them round and make them mine.'"
+  },
+  {
+    "name": "Avifors",
+    "define": "Avifors Spell",
+    "type": "Transfiguration",
+    "pronunciation": "AH-vi-fors",
+    "description": "Transforms the target into a bird",
+    "mentioned": "Used multiple times throughout the video games.",
+    "etymology": "From Latin avis meaning 'bird' and forma meaning 'shape'."
+  },
+  {
+    "name": "Avis",
+    "define": "Bird-Conjuring Charm",
+    "type": "Conjuration",
+    "pronunciation": "AH-viss",
+    "description": "Conjures a flock of birds from the tip of the wand; when used in conjunction with Oppugno, it can be used offensively.",
+    "mentioned": "Used in 1994 by Mr Ollivander to test Viktor Krums wand. Also employed offensively by Hermione Granger against Ron Weasley.",
+    "etymology": "The Latin word avis means 'bird'."
+  },
+  {
+    "name": "Babbling Curse",
+    "type": "Curse",
+    "description": "Although this spell is not fully understood, it is generally presumed to force a person to babble whenever they speak; it is possibly, for this reason, related to the Tongue-Tying Curse.",
+    "mentioned": "Although he was rather untrustworthy, it may not have occurred at all, but Lockhart says he cured a Transylvanian farmer of this affliction."
+  },
+  {
+    "name": "Bat-Bogey Hex",
+    "type": "Hex",
+    "description": "It is another spell that is not fully understood, but most people presume, based on clues from the text, that it grotesquely enlarges the targets bogies, gives them wings, and sets them attacking the target.",
+    "mentioned": "Ginny Weasley was a noted practitioner of this spell, having used it at least thrice by her sixth year.",
+    "notes": "This spell may be related to, or the same as, the Curse of the Bogies mentioned in 1991; however, that spell gives the victim a runny nose, and hence the two may be different."
+  },
+  {
+    "name": "Baubillious",
+    "type": "Charm",
+    "pronunciation": "baw-BILL-ee-us",
+    "description": "The exact effects of the spell are unknown, though it presumably is of damaging nature and it produces a bolt of white light from the tip of the wand.",
+    "mentioned": "In Charms class of an unknown year.",
+    "etymology": "Currently unclear, probably from English bauble.",
+    "notes": "Judging by the incantation, this may be the spell used by Filius Flitwick to decorate the Hogwarts Christmas Trees with Christmas baubles."
+  },
+  {
+    "name": "Bedazzling Hex",
+    "type": "Hex",
+    "description": "Thouh the exact effects are unknown, based on the name (and the fact that it is used in conjunction with a chameleon charm on certain cloaks, it is probably used to conceal a person or object.",
+    "mentioned": "When Xenophilius Lovegood explains the concept of how the Cloak of Invisibility is the only thing that can make a person truly invisible, he mentions that most cloaks of that kind are made with this spell."
+  },
+  {
+    "name": "Bewitched Snowballs",
+    "type": "Charm",
+    "description": "Presumably causes snowballs to pelt themselves at the target.",
+    "mentioned": "Twice used by Fred and George Weasley; firstly on Professor Quirrells head, unwittingly striking Lord Voldemort in the face, and then again four years later to attack the windows of Gryffindor Tower."
+  },
+  {
+    "name": "Bluebell Flames",
+    "type": "Charm",
+    "description": "Conjures a quantity of waterproof blue flames that can be carried around in a container, released, then 'scooped' back therein.",
+    "mentioned": "This spell was a specialty of Hermione Grangers. She used it to save Harry and Ron in 1991."
+  },
+  {
+    "name": "Bombarda",
+    "type": "Charm",
+    "pronunciation": "bom-BAR-dah",
+    "description": "Provokes a small explosion.",
+    "mentioned": "Used by Hermione Granger to free Sirius Black from prison in 1994. This spell was only seen in the film.",
+    "etymology": "Presumably from English bombard, meaning 'to attack a place or person continually with bombs or other missiles'."
+  },
+  {
+    "name": "Bombarda Maxima",
+    "type": "Charm",
+    "pronunciation": "BOM-bar-dah MAX-ih-mah",
+    "description": "Creates a large explosion capable of removing entire walls. A more advanced and more powerful form of Bombarda.",
+    "mentioned": "Dolores Umbridge used this spell in 1995 to force her way into the Room of Requirement."
+  },
+  {
+    "name": "Brackium Emendo",
+    "type": "Charm, Healing Spell",
+    "pronunciation": "BRA-key-um ee-MEN-doh",
+    "description": "If used correctly, it is claimed that this spell will heal broken bones; this theory is supported by the etymology.",
+    "mentioned": "Used unsuccessfully by Gilderoy Lockhart on Harry Potter in 1992 after the latters arm was broken by a Bludger; it vanished all the bones, making it resemble rubber."
+  },
+  {
+    "name": "Bubble-Head Charm",
+    "type": "Charm",
+    "description": "Produces a large bubble of air around the head of the user; it is commonly used as the supernatural equivalent of a breathing set.",
+    "mentioned": "Used by Cedric Diggory and Fleur Delacour in 1995; it was used the next year by many students walking through the halls, because of horrid odours made by various pranks played on Dolores Umbridge."
+  },
+  {
+    "name": "Bubble-producing spell",
+    "type": "Charm",
+    "description": "Produces a stream of multicoloured, non-bursting bubbles; there are two similar spells.",
+    "mentioned": "Used by Professor Flitwick to decorate some trees; the bubbles in this instance were golden. Used the following year by Ron Weasley when he broke his wand; these bubbles were purple."
+  }
+]
