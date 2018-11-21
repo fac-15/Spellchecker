@@ -1179,5 +1179,303 @@
     "type": "Hex",
     "description": "Causes yellowish goo to squirt from one's nose.",
     "mentioned": "Morfin Gaunt used this hex on Bob Ogden."
+  },
+  {
+    "name": "Redactum Skullus",
+    "type": "Hex",
+    "pronunciation": "red-AK-tum SKULL-us",
+    "description": "Redactum Skullus is a hex that shrinks the target's head. It is the counter-spell to Engorgio Skullus.",
+    "mentioned": "It can be bought at Wiseacre's Wizarding Equipment in Diagon Alley in LEGO Harry Potter: Years 1-4."
+  },
+  {
+    "name": "Reducio",
+    "define": "Shrinking Charm",
+    "type": "Charm",
+    "pronunciation": "re-DOO-see-oh",
+    "description": "Makes an enlarged object smaller. Counter-charm to Engorgio.",
+    "mentioned": "In Harry Potter and the Deathly Hallows: Part 1, Harry Potter, after checking his Blackthorn wand on the Bluebell flames with Engorgio, casts this spell to shorten the formerly enlarged flames.",
+    "etymology": "English reduce, 'to shrink'. (Latin has a verb reducere, present tense reduco. This is the source of the English 'reduce', but has a different meaning.) Also in Italian Riduco first person present tense of Ridurre, same root of Latin Reducere.",
+    "notes": "Whether Reducio could also be used by itself rather than countering Engorgio is unknown. If it could, it would shrink normal sized items into miniature versions of themselves. References in 1992 by Arthur Weasley to 'shrinking door keys' make this seem likely."
+  },
+  {
+    "name": "Reducto",
+    "define": "Reductor Curse",
+    "type": "Curse",
+    "pronunciation": "re-DUK-toh",
+    "description": "Breaks objects. In stronger usages, disintegrates them.",
+    "mentioned": "In 1995, Harry used it on one of the hedges of the Triwizard maze and ends up burning a small hole in it; in 1995, Gryffindors in Harry Potter's year referenced Parvati Patil as being able to reduce a table full of Dark Detectors to ashes, and Harry and his friends later used the spell in the Department of Mysteries against the Death Eaters, shattering many Prophecy Orbs in the process; in 1997, a member of the Order of the Phoenix attempted to use this spell to break down a door which Death Eaters had blocked when the Death Eaters had cornered Dumbledore in the Lightning Struck Tower.",
+    "etymology": "English reduce, 'to bring down;destroy'.",
+    "notes": "Reparo makes a good counter-curse."
+  },
+  {
+    "define": "Refilling Charm",
+    "type": "Charm, Conjuration",
+    "description": "Refills whatever the caster points at with the drink originally in the container.",
+    "mentioned": "Used in Harry Potter and the Half-Blood Prince, when Harry notices that Hagrid and Slughorn are running out of wine. This may have also been in the Harry Potter and the Deathly Hallows: Part 1 film as the water in the cups are shown refilling themselves."
+  },
+  {
+    "name": "Reparifors",
+    "type": "Healing Spell",
+    "description": "Reverts minor magically-induced ailments, such as paralysis and poisoning.",
+    "mentioned": "Harry Potter and the Prisoner of Azkaban (video game)"
+  },
+  {
+    "name": "Relashio",
+    "define": "Revulsion Jinx",
+    "type": "Jinx",
+    "pronunciation": "Re-LASH-ee-oh",
+    "description": "A spell used to make the subject release what ever it is holding or binding.",
+    "mentioned": "Used by Harry Potter against Grindylows in the second task of the Triwizard Tournament. Also used in 1997 and 1998, when Hermione used this spell to free Mrs Cattermole from the chained chair and to free the Ukrainian Ironbelly on which they were to get out from Gringotts.]]",
+    "etymology": "Probably from the French verb relâcher 'to release, to set free', or Italian rilascio (pronounced the same way as the spell)'I release'."
+  },
+  {
+    "name": "Rennervate",
+    "type": "Charm",
+    "pronunciation": "ree-nur-VAH-tay, REN-ur-vayt",
+    "description": "revives a stunned person.",
+    "mentioned": "In 1994, Amos Diggory used it to wake up Winky and Albus Dumbledore used it to wake up Viktor Krum. Harry Potter later used it to try and reawaken a cursed Dumbledore in the seaside cave.",
+    "etymology": "Officially renamed from Ennervate by J.K. Rowling. Rennervate means 'to energize', whilst the former Ennervate, meant 'to weaken,'."
+  },
+  {
+    "name": "Reparifarge",
+    "type": "Untransfiguration",
+    "pronunciation": "This information is currently unknown.",
+    "description": "Used to reverse unsuccessful transformations.",
+    "mentioned": "Seen only thus far in A Beginner's Guide to Transfiguration on Pottermore.",
+    "etymology": "This information is currently unknown."
+  },
+  {
+    "name": "Reparo",
+    "define": "Mending Charm",
+    "type": "Charm",
+    "pronunciation": "reh-PAH-roh",
+    "description": "Used to repair objects.",
+    "mentioned": "Countless times throughout the books. Shattered objects are often described as having 'flown' back together. However, substances contained in the broken objects don't get back inside. In 1995 Harry smashed a bowl of murtlap essence. He could repair the bowl but the murtlap essence remained splashed to the floor.",
+    "etymology": "Latin reparo meaning 'to renew' or 'repair'.",
+    "notes": "This is the final spell used in the Harry Potter series. Reparo has been seen to repair non-magical items, however it seems to have an inability at repairing magical items or items that have magic placed upon them. An example is Harry's Nimbus 2000 shown in 1993 which he is told is irreparable after it is destroyed by the Whomping Willow. Wands are also irreparable, as shown in 1992 when Ron's wand snapped after he and Harry crashed onto the Hogwarts grounds. Despite his use of Spellotape, Ron's wand malfunctioned throughout the entire novel. Another example is in 1997 when Hermione tried to fix Harry's broken wand, which was snapped by her errant Blasting Curse. However, Harry repaired his wand with the Elder Wand. Since the Elder Wand is the most powerful wand in the universe, it makes sense that it would produce the most powerful Repairing Charm."
+  },
+  {
+    "name": "Repello Muggletum",
+    "define": "Muggle-Repelling Charm",
+    "type": "Charm",
+    "pronunciation": "reh-PELL-loh MUG-ul-tum, MUGG-gleh-tum, mugg-GLEE-tum",
+    "description": "Keeps Muggles away from wizarding places by causing them to remember important meetings they missed and to cause the Muggles in question to forget what they were doing.",
+    "mentioned": "Mentioned in Quidditch Through the Ages as being used to keep Muggles away from the Quidditch World Cup. Hogwarts was also said to be guarded by the Muggle-Repelling Charm. It was also used by Harry and Hermione on numerous occasions, among many other spells, to protect and hide their camp site in 1997."
+  },
+  {
+    "name": "Repello Inimicum",
+    "type": "Charm",
+    "pronunciation": "re-PEH-lloh ee-nee-MEE-cum",
+    "description": "Disintegrates the persons entering this charm.",
+    "mentioned": "This spell was used by professors Filius Flitwick and Horace Slughorn along with Order of the Phoenix member Molly Weasley to protect Hogwarts Castle in 1998.",
+    "etymology": "Latin 'Repello', meaning 'Push Back' and 'inimicum', the accusative singular form of 'inimīcus' meaning 'foe' or 'enemy'."
+  },
+  {
+    "name": "Revelio",
+    "type": "Charm",
+    "pronunciation": "reh-VEL-ee-oh",
+    "description": "Reveals hidden objects"
+  },
+  {
+    "name": "Rictusempra",
+    "define": "Tickling Charm",
+    "type": "Charm",
+    "pronunciation": "ric-tuhs-SEM-pra",
+    "description": "Causes an extreme tickling sensation that, in the case of Draco Malfoy, made him drop to the floor laughing. In the film, this spell causes the victim to be thrown in cartwheels through the air, rather than tickling them.",
+    "mentioned": "By Harry Potter on Draco Malfoy in 1992, when they fought in the Duelling Club.",
+    "etymology": "Possibly the sum of two words; The Latin rictus, meaning 'The expanse of an open mouth', and semper, meaning 'Always'. Rictus is generally used as an expression of terror, however, 'always an open mouth' would, in most cases, correspond to the act of laughing uncontrollably.",
+    "notes": "It can be bought at Wiseacre's Wizarding Equipment in Diagon Alley in LEGO Harry Potter: Years 1-4."
+  },
+  {
+    "name": "Riddikulus",
+    "type": "Charm",
+    "pronunciation": "rih-dih-KUL-lus",
+    "description": "A spell used when fighting a Boggart, 'Riddikulus' forces the Boggart to take the appearance of an object the caster is focusing on. Best results can be achieved if the caster is focusing on something humorous, with the desire that laughter will weaken the Boggart.",
+    "mentioned": "First seen in 1993, when taught by Remus Lupin.",
+    "etymology": "Latin word ridiculus, 'laughable' (but perhaps 'absurd' or 'silly' in this context).",
+    "notes": "The effect of the spell seems to rely primarily on the state of mind of the caster. It doesn't actually change the shape of a boggart into something humorous, but rather whatever the caster is concentrating on at the moment of the casting, as when Neville was thinking of his grandmother's dress. Presumably, Mrs Weasley couldn't take her mind off of her fears for her family, so the Boggart was changed into other members of the family rather than something humorous."
+  },
+  {
+    "define": "Rose Growth",
+    "type": "Transfiguration",
+    "description": "Causes rosebushes grow at an unusually fast pace.",
+    "mentioned": "Harry Potter Trading Card Game",
+    "notes": "This spell may be related to Herbivicus."
+  },
+  {
+    "define": "Rowboat spell",
+    "type": "Charm",
+    "description": "A spell invented by Hagrid which propels row boats to a pre-set destination.",
+    "mentioned": "Hagrid used the spell on the row-boats at Hogwarts, to transport the First years from Hogsmeade Station to the Boathouse. It may also have been the spell that he used to propel the row-boat that he used to take Harry from the Hut-on-the-Rock back to the mainland in 1991."
+  },
+  {
+    "name": "Salvio Hexia",
+    "type": "Charm",
+    "pronunciation": "SAL-vee-oh HECKS-ee-ah",
+    "description": "Unknown, as it was one of several spells that were used to help strengthen Harry's camp-site, and had no seen effects. Possibly deflects minor hexes aimed at an object (the tent)",
+    "etymology": "Possibly derived from the Latin 'salveo,' meaning 'to be in good health,' and used as a form of greeting and farewell, and a pseudo-Latin derivative of the English word 'hex'—hence, 'Farewell, hexes!'",
+    "mentioned": "Harry and Hermione cast this spell to strengthen their camp-site's defences against intruders in 1997.",
+    "notes": "Possibly the Hex Deflection spells the fake Moody mentioned in 1994."
+  },
+  {
+    "name": "Sardine hex",
+    "type": "Hex",
+    "pronunciation": "Unknown",
+    "description": "Causes sardines to come out of the victim's nose.",
+    "mentioned": "Rubeus Hagrid once had this hex used on him."
+  },
+  {
+    "name": "Scorching Spell",
+    "define": "Fiery Offensive Spell",
+    "type": "Conjuration",
+    "description": "Produces dancing flames which presumably scorch the opponent.",
+    "mentioned": "Professor McGonagall used this spell on Professor Snape in 1998."
+  },
+  {
+    "name": "Scourgify",
+    "define": "Scouring Charm",
+    "type": "Charm",
+    "pronunciation": "SKUR-jih-fiy",
+    "description": "Used to clean something.",
+    "mentioned": "First used by Nymphadora Tonks to clean Hedwig's cage in 1995. Later, Ginny Weasley performed the spell to clean up the Stinksap on the Hogwarts Express, also used by James Potter on Severus Snape after he shouted various curses and obscenities at him.",
+    "etymology": "Perhaps related to English scour, 'clean'. -ify is a common English suffix meaning 'to make ...'. Therefore scourgify could mean 'to make clean'."
+  },
+  {
+    "name": "Sectumsempra",
+    "type": "Curse",
+    "pronunciation": "sec-tum-SEMP-rah",
+    "description": "A dark spell that creates large, blood-oozing gashes on the subject as if said subject had been 'slashed by a sword'. Invented by Severus Snape.",
+    "mentioned": "Used by Harry in 1997 against Draco Malfoy, and then later against both the Inferi in Lord Voldemort's Horcrux chamber, and Snape used it against George Weasley (was unintentional; aimed for a Death Eater that tried to curse Lupin) in the Order's flight from Privet Drive. Harry learned it in Snape's old Potions textbook. In 1998, the spell is said to be Severus Snape's 'signature' spell.",
+    "etymology": "Latin sectum, 'cut', and semper, 'always'.",
+    "notes": "The spell can apparently be used against any object, but was not effective when used against Inferi because they could not feel pain or bleed. The movement of the wand seems to affect how someone is cut, suggested by the erratic patterns of slashes left on Draco Malfoy's face and chest, produced by Harry Potter's wild wand-swings while using the spell against Draco. Wounds caused by this spell can be healed as proved by Severus Snape who after Harry hit Draco Malfoy with this spell he healed Draco's wounds and told him to go and get treated with dittany at once so that he would even avoid any sign of any wound. However it seems that it depends on the caster's magical abilities because Molly Weasley could not heal and restore George Weasley's ear that was cursed off by this spell."
+  },
+  {
+    "define": "Shield penetration spell",
+    "type": "Spell",
+    "pronunciation": "unknown",
+    "description": "Presumably annihilates magical enchantments and shields.",
+    "mentioned": "Used by Voldemort to break the enchantments placed around Hogwarts School of Witchcraft and Wizardry in 1998 by Filius Flitwick, Minerva McGonagall, and Molly Weasley.",
+    "etymology": "unknown"
+  },
+  {
+    "name": "Shooting Spell",
+    "type": "Spell",
+    "description": "Used to shoot objects",
+    "mentioned": "This spell was used by Harry Potter and Ronald Weasley in 1997 on their Horcrux hunt in an attempt to catch a rabbit for food."
+  },
+  {
+    "name": "Smashing spell",
+    "type": "Spell",
+    "description": "Produces explosions",
+    "mentioned": "Bellatrix Lestrange used this spell in her insane celebratory outburst after the death of Albus Dumbledore in 1997."
+  },
+  {
+    "name": "Serpensortia",
+    "define": "Snake Summons Spell",
+    "type": "Conjuration",
+    "pronunciation": "ser-pen-SOR-shah, SER-pehn-SOR-tee-ah",
+    "description": "Conjures a serpent from the spell-caster's wand.",
+    "mentioned": "Used by Draco Malfoy while duelling Harry Potter in 1992.",
+    "etymology": "Latin serpens meaning 'a snake' and Latin ortis meaning 'source'."
+  },
+  {
+    "name": "Silencio",
+    "define": "Silencing Charm",
+    "type": "Charm",
+    "pronunciation": "sih-LEN-see-oh",
+    "description": "Makes something silent.",
+    "mentioned": "First used by Hermione in 1996 to silence a frog and a raven in Charms class, then later used to silence a Death Eater that was trying to tell his comrades where they were.",
+    "etymology": "Probably Latin silentium, 'silence'. Also, silencio and silêncio (which is closer to the English pronunciation) mean 'silence' in Spanish and Portuguese, respectively."
+  },
+  {
+    "name": "Skurge",
+    "type": "Charm",
+    "pronunciation": "SKUR-je",
+    "description": "Cleans up ectoplasm, the slime-like residue left by certain ghosts. The spell manifests as a blast of greenish suds.",
+    "mentioned": "The Harry Potter and the Chamber of Secrets video game. Harry finds it in a spell book in the Restricted Section of the Hogwarts Library(possibly misfiled) and uses it to clear doorways and treasure chests that have been slimed-over by malevolent ghosts."
+  },
+  {
+    "name": "Slugulus Eructo",
+    "define": "Slug-vomiting Charm",
+    "type": "Curse",
+    "description": "A jet of green light strikes the victim, who then vomits slugs for ten minutes. The sizes of the vomited slugs decrease with time.",
+    "mentioned": "In Chamber of Secrets, Ron attempts to use a (technically)nonverbal version of this spell on Draco; the spell backfired and hit him instead thanks to his damaged wand. It is also a spell that can be bought in LEGO Harry Potter: Years 1-4.",
+    "notes": "In the film adaptation of Harry Potter and the Chamber of Secrets, an incantation was used, 'Eat Slugs!', it's unknown if that's its true incantation or not, although it is unlikely to be."
+  },
+  {
+    "name": "Sonorous Charm",
+    "type": "Charm",
+    "description": "This charm emits a magnified roar from the tip of the wand. This noise disrupts all in its path, and can even be used to harm opponents.",
+    "mentioned": "Harry Potter and the Prisoner of Azkaban (video game)"
+  },
+  {
+    "name": "Sonorus",
+    "define": "Amplifying Charm",
+    "type": "Charm",
+    "pronunciation": "soh-NOHR-uhs",
+    "description": "Magnifies the spell caster's voice when one's wand is pointing to the side of the caster's neck.",
+    "mentioned": "By Ludo Bagman in 1994 at the beginning of the Quidditch World Cup and by Albus Dumbledore several times in the Triwizard Championship. Used by Lord Voldemort several times during the Battle of Hogwarts in 1998.",
+    "etymology": "Latin sonorus, 'loud; noisy'.",
+    "notes": "The counter-spell is Quietus. In the film adaptation of Harry Potter and the Goblet of Fire Cornelius Fudge simply holds his wand to his throat while speaking, it is possible that he has performed a Nonverbal spell."
+  },
+  {
+    "name": "Specialis Revelio",
+    "define": "Scarpin's Revelaspell",
+    "type": "Charm",
+    "pronunciation": "speh-see-AH-LIS reh-VEL-ee-oh",
+    "description": "Apparently causes an object to show its hidden secrets or magical properties.",
+    "mentioned": "Used by Hermione Granger to find out more of Harry's Advanced Potion-Making book in 1996. Used by Ernie Macmillan to find out ingredients of a potion. Its precise effects are unknown, as there are no recorded occasions of the spell being successful.",
+    "etymology": "Latin specialis, 'particular;individual' and revelare (present tense revelo), 'unveil'.",
+    "notes": "In 1994, Severus Snape cast a similar spell, but with different words ('Reveal your secrets!'), on the Marauder's Map, though he may have just been saying those words as he cast the spell non-verbally. The spell may also be able to distinguish different ingredients in a potion, though this is noted to merely sound impressive."
+  },
+  {
+    "name": "Spongify",
+    "define": "Softening Charm",
+    "type": "Charm",
+    "pronunciation": "spun-JIH-fy",
+    "description": "Softens the target",
+    "mentioned": "This charm is seen in The Standard Book of Spells, Grade 1 on Pottermore."
+  },
+  {
+    "define": "Stealth Sensoring Spell",
+    "type": "Spell",
+    "description": "Detects those under magical disguise.",
+    "mentioned": "In 1996, Professor Umbridge cast this around her office."
+  },
+  {
+    "name": "Steleus",
+    "type": "Hex",
+    "pronunciation": "STÉ-lee-us",
+    "description": "A hex that causes the victim to sneeze for a short period of time. This spell is used in duelling to distract the opponent.",
+    "mentioned": "It is only seen in Harry Potter and the Prisoner of Azkaban (video game).",
+    "etymology": "Steleus derives from the Latin sternuo, meaning I sneeze."
+  },
+  {
+    "define": "Stinging Hex, Stinging Jinx",
+    "type": "Jinx",
+    "description": "Produces a stinging sensation in the victim, resulting in angry red welts and occasionally the severe inflammation of the affected area.",
+    "mentioned": "Harry Potter inadvertently used one on Severus Snape during Occlumency lessons in 1996. It was non-debilitating in that instance, but it is stronger when intentionally cast, as shown by the results of Hermione Granger's Stinging Hex used on Harry Potter in 1998 to purposefully distort Harry's appearance. Lucius Malfoy calls it the Stinging Jinx in Harry Potter and the Deathly Hallows."
+  },
+  {
+    "name": "Stupefy",
+    "define": "Stunning Spell",
+    "type": "Charm",
+    "pronunciation": "STOO-puh-fye",
+    "description": "Stuns victim. If used too forcefully, it will put the victim in an unconscious state.",
+    "mentioned": "Often; particularly by a number of wizards and witches (including Dolores Umbridge) against Minerva McGonagall in 1996. It's also taught by Harry in his D.A. meetings.",
+    "etymology": "English stupefy, which means 'to put into a stupor', a temporary vegetative state.",
+    "notes": "The physical manifestation of the spell is a beam of red light emanating from the caster's wand. The spell wears off after a short time, and can be countered by Rennervate. Nearly useless on magic-resistant creatures such as dragons, trolls and giants unless more than one Stupefy spell is used at the same time. The force of the spell is additive or perhaps even exponential, and it can cause severe injury if many spells are used on a target that is not normally resistant to its effects. Hagrid, as a half-giant, is impervious to this spell - or at least, a lone one."
+  },
+  {
+    "define": "Supersensory Charm",
+    "type": "Charm",
+    "description": "Presumably causes the caster to have enhanced senses, or to be able to sense things they would not normally sense.",
+    "mentioned": "Mentioned by Ron outside of the Hogwarts Express in 2017 as a potential substitute for using mirrors while driving a Muggle auto mobile."
+  },
+  {
+    "define": "Switching Spell",
+    "type": "Transfiguration",
+    "description": "Causes two objects to be switched for one another",
+    "mentioned": "Harry contemplated using this spell against his dragon in the first task of the Triwizard Tournament. ((He considered swapping its fangs for wine gums)). Neville Longbottom misuses the spell, transplanting his ears onto a cactus."
   }
 ]
