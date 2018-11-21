@@ -4,7 +4,8 @@
     "type": "Charm",
     "pronunciation": "Uh-bare-toe",
     "description": "A spell presumably used to open objects such as doors or windows."
-  },
+  
+},
   {
     "name": "Accio",
     "define": "Summoning Charm",
@@ -943,5 +944,84 @@
     "mentioned": "Used by Hermione to free Ron from the Devil's Snare. The incantation was only used in the film adaptation of Harry Potter and the Philosopher's Stone.",
     "etymology": "Derived from two words; the Latin lumen, meaning 'light', and the Latin word for 'sun', which in its accusative case is 'solem'.",
     "notes": "It is possible that the quality of the light is on the warmer solar end of the spectrum; Considering the known uses that the spell has been put to, it isn't that much of a stretch to presume that the spell is used to conjure Sunlight."
+  }, 
+  {
+    "names": "Magicus Extremos",
+    "type": "Charm",
+    "description": "Seen only in the video games, this simply makes all spells more powerful for a limited period of time.",
+    "mentioned": "Harry Potter and the Goblet of Fire (video game) '"
+  }, 
+  {
+    "names": "Melofors", 
+    "define": "Melofors Jinx",
+    "type": "Conjuration",
+    "description": "Encases the target's head in a pumpkin.",
+    "mentioned": "PoA game, GoF game, Harry Potter and the Order of the Phoenix, LEGO Harry Potter: Years 1-4/5-7."
+  }, 
+  {
+    "names": "Meteolojinx Recanto",
+    "type": "Counter-Charm",
+    "pronunciation": "mee-tee-OH-loh-jinks reh-CAN-toh.",
+    "description": "Presumably causes weather effects caused by jinxes to cease.",
+    "mentioned": "Suggested in 1997 by Arthur Weasley to Ron (disguised as Reginald Cattermole by use of Polyjuice Potion) as the best way to clear up the rain jinx on a Ministry office. Also used by Bartemius Crouch Jr (Disguised as Alastor Moody) In 1994 to cease the weather effect of the Great Hall's Ceiling insisting it is broken as he told Dumbledore to "Fix his ceiling".",
+    "etymology": "Meteorology, the study of weather, the word jinx and recant, 'to withdraw or retract'. Interestingly in modern English recant means to say that you no longer hold a belief."
+  }, 
+  {
+    "names": "Mimblewimble", 
+    "define": "Tongue-Tying Curse",
+    "type": "Curse",
+    "pronunciation": "MIM-bull-WIM-bull",
+    "description": "A curse which prevents certain information from being revealed by the individual upon whom the spell is placed. The curse manifests itself by causing the tongue to temporarily curl backwards upon itself.",
+    "mentioned": "Seen in 1997 as a deterrent to Severus Snape, or any other unwanted visitor of 12 Grimmauld Place, from betraying their location to anyone else."
+  }, 
+  {
+    "names": "Mobiliarbus",
+    "type": "Charm",
+    "pronunciation": "MO-bil-ee-AR-bus",
+    "description": "Levitates and moves an object.",
+    "mentioned": "In 1993, Hermione Granger used the spell to move a Christmas Tree in The Three Broomsticks beside her table to hide Harry Potter, who was in Hogsmeade illegally.",
+    "etymology": "Latin mobilis, 'movable' or 'flexible', and arbor (alternatively arbos), 'tree'.",
+    "notes": "It is possible that Mobilicorpus and Mobiliarbus are variations of the same basic spell, since they share the 'Mobili-' stem."
+  }, 
+  {
+    "names": "Mobilicorpus",
+    "type": "Charm",
+    "pronunciation": "MO-bil-ee-COR-pus",
+    "description": "Levitates and moves bodies.",
+    "mentioned": "Sirius Black used it on Severus Snape in 1994. It was probably used on Peter Pettigrew by Lord Voldemort in the graveyard to make him come forward.",
+    "etymology": "Latin mobilis, 'movable', and corpus, 'body'.",
+    "notes": "It is possible that Mobiliarbus and Mobilicorpus are variations of the same basic spell, since they share the 'Mobili-' stem."
+  }, 
+  {
+    "define": "Molly Weasley's Curse",
+    "type": "Curse",
+    "pronunciation": "Unknown",
+    "description": "Like the Avada Kedavra curse, it kills (or freezes) the victim. It turns the body grey/blue (or paler) while it turns to stone and then another twin jinx can blast the body into pieces.",
+    "mentioned": "Molly Weasley used the curse after Bellatrix Lestrange attacked Ginny Weasley. Only used in the film version.",
+    "notes": "This may be Duro or a Freezing Charm, although the latter is shown to be blue in 1992."
+  }, 
+  {
+    "names": "Morsmordre",
+    "define": "Dark Mark",
+    "pronunciation": "morz-MOR-duh, morz-MOHR-dah, morz-MOR-drah",
+    "description": "Conjures the Dark Mark, which is the sign of the Death Eaters.",
+    "mentioned": "Used by Barty Crouch Jr in 1994. Also seen in 1997 over the castle to lure Albus Dumbledore to his death. It was apparently invented by Lord Voldemort.",
+    "etymology": "Latin mors, 'death', and mordere, meaning 'to bite' (or its French derivative mordre); this would appear to be associated with the name of Lord Voldemort's followers, the Death Eaters. The English murder might also contribute.",
+    "notes": "A possible translation might be 'take a bite out of death', a fitting phrase for Death Eaters."
+  }, 
+  {
+    "names": "Muffliato",
+    "type": "Charm",
+    "pronunciation": "muf-lee-AH-to",
+    "description": "This spell fills peoples' ears with an unidentifiable buzzing to keep them from hearing nearby conversations.",
+    "mentioned": "It was used in 1996 by Harry Potter and Ron Weasley on various teachers and people such as Madam Pomfrey. It was created by Severus Snape. As pointed out by Hermione, it is probably not Ministry of Magic approved. It was also used in 1997 by Hermione Granger in protection of the camp-site where Harry and she stayed in hiding.",
+    "etymology": "English muffle, 'to quiet', with a pseudo-Latin or pseudo-Italian ending."
+  }, 
+  {
+    "names": "Multicorfors",
+    "type": "Transfiguration",
+    "pronunciation": "mull-tee-COR-fors",
+    "description": "Multicorfors is a charm used to change the colour of one's clothing.",
+    "mentioned": "It can be bought at Wiseacre's Wizarding Equipment in Diagon Alley in LEGO Harry Potter: Years 1-4. It may also be the same charm as when Harry accidentally changed the colour of his eyebrow, before he asked Luna to Slughorn's Christmas party. (Unlikely, as that was performed as a Transfiguration exercise, which is rather unrelated to Charms.) Could have possibly been used when Harry accidentally changed the colour of his teachers hair, in his Primary School."
   }
 ]
