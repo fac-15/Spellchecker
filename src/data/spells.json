@@ -595,7 +595,14 @@
   "etymology": "English orchid and Latin suffix -eous, 'of or bearing (the root word)'.",
   "notes": "A variation of this spell may have been used when Hermione Granger conjured a Christmas wreath to place on James and Lily Potter's graves in 1997."
 },
-
+{
+  "name": "Quietus", 
+  "pronunciation": "KWIY-uh-tus",
+  "description": "Makes a magically magnified voice return to normal. A counter to Sonorus.",
+  "mentioned": "Used in 1994 by Ludo Bagman.",
+  "etymology": "Latin quietus, 'calm' or 'quiet'.",
+  "notes": "It is conjectural whether Quietus could be used alone to magically quiet a persons voice, or only counteracts Sonorus."
+},
 
 
 ]
