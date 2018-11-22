@@ -256,6 +256,354 @@
     "mentioned": "Used by Professor Flitwick to decorate some trees; the bubbles in this instance were golden. Used the following year by Ron Weasley when he broke his wand; these bubbles were purple."
   },
   {
+    "name": "Defodio",
+    "define": "Gouging Spell",
+    "type": "Charm",
+    "pronunciation": "deh-FOH-dee-oh",
+    "description": "This spell allows the caster to gouge large chunks out of the target.",
+    "mentioned": "Used by The Trio to escape from a bank in 1998 while riding a dragon. It was later used by Harry to write the epitaph for Dobby, who had been killed.",
+    "etymology": "The incantation is Latin for 'I dig'."
+},
+{
+    "name": "Deletrius",
+    "define": "Eradication Spell",
+    "type": "Charm",
+    "pronunciation": "deh-LEE-tree-us",
+    "description": "Disintegrates something",
+    "mentioned": "This spell was only ever seen in 1994 when Amos Diggory used Prior Incantato to detect that Winky had cast Morsmordre using Harry Potters wand.",
+    "etymology": "Latin delere, meaning 'to destroy', and English 'detritus', meaning rubble."
+}, 
+{
+    "name": "Densaugeo", 
+    "define": "Tooth-Growing Spell",
+    "type": "Hex",
+    "pronunciation": "den-SAW-jee-oh",
+    "description": "This hex causes the victim's teeth to grow rapidly, but can also be used to restore lost teeth, as proven when Ted Tonks did so in 1997 for Harry Potter.",
+    "mentioned": "Introduced in 1994, when Draco Malfoys spell rebounded upon Hermione Granger; her teeth were past her collar before she was forced to run to the hospital to get them shrunk. Later used in 1997 to mend Harry Potters broken teeth.",
+    "etymology": "From Latin dens, meaning 'tooth', and augeo, meaning 'I enlarge'; essentially, it means 'I enlarge the tooth'."    
+}, 
+{
+    "name": "Depulso", 
+    "define": "Banishing Charm",
+    "type": "Counter-Charm",
+    "pronunciation": "deh-PUL-soh",
+    "description": "This spell is used to make the target fly toward a specific location; it is the opposite of the summoning charm.",
+    "mentioned": "Although it is learned in the fourth-year charms class at Hogwarts, it is used multiple times in 1993, as well as in 1995.",
+    "etymology": "From the Latin depulsio, meaning 'drive away'."
+},
+{
+    "name": "Descendo", 
+    "type": "Charm",
+    "pronunciation": "deh-SEN-doh",
+    "description": "Causes the target to move downwards.",
+    "mentioned": "In 1997, it was used by Ron to magically cause the stairs in his bedroom, which lead to his familys attic, to descend; later that year, Crabbe used it in an attempt to cause a wall of rubbish behind which Ron was hiding to fall on him.",
+    "etymology": "Descendo is Latin for 'I descend'."
+}, 
+{
+    "name": "Deprimo", 
+    "type": "Charm",
+    "pronunciation": "DEE-prih-moh",
+    "description": "This spell places immense downward pressure on the target, which may result in the violent fracturing of said target.",
+    "mentioned": "Hermione Granger blasted a hole through the living room floor of Xenophilius Lovegoods house in 1998 using this spell.",
+    "etymology": "The incantation, when non-capitalized, means 'to depress' or 'depress'."
+},
+{
+    "name": "Diffindo",
+    "define": "Severing Charm",
+    "type": "Charm",
+    "pronunciation": "dih-FIN-doh",
+    "description": "Rips, tears, shreds, or otherwise physically damages the target.",
+    "mentioned": "Used twice in 1994, the first time being by Harry Potter to cut Cedric Diggorys bag in order to talk to the latter, and the second time being by Ron Weasley to cut the lace from the cuffs of his dress robes in an attempt to make them seem less feminine. The spell was used a third time by Harry to swap the covers of his second-hand and brand-new copies of Advanced Potion-Making.",
+    "etymology": "Latin diffindere, meaning 'to divide' or 'to split'."
+}, 
+{
+    "name": "Diminuendo",
+    "type": "Charm",
+    "pronunciation": "dim-in-YEW-en-DOUGH",
+    "description": "Forces the target to shrink.",
+    "mentioned": "Performed by Nigel Wolpert in 1995.",
+    "etymology": "The incantation derives from the musical term diminuendo, meaning 'a gradual decrease of the volume of sound'."
+},
+{
+    "name": "Dissendium",
+    "type": "Charm",
+    "pronunciation": "dih-SEN-dee-um",
+    "description": "Although the only known canonical effect is to open secret passageways, its possible, based on its use in 1997, that it opens things in general.",
+    "mentioned": "Used multiple times in 1993 to open the statue of Gunhilda of Gorsemoor, then again four years later in a failed attempt to open Salazar Slytherins Locket.",
+    "etymology": "There are numerous suggestions.",
+    "notes": "This may not be a spell at all in the strict sense but a password; however, when used for the statue of the hump-backed witch, one must tap the statue with their wand, indicating that it is in fact a spell."   
+},
+{
+    "name": "Disillusionment Charm",
+    "type": "Charm", 
+    "description": "Causes the target to blend seamlessly in with its surroundings, like a chameleon.",
+    "mentioned": "Used and mentioned multiple times from 1995 onward."
+},
+{
+    "name": "Draconifors",
+    "type": "Transfiguration",
+    "pronunciation": "drah-KOH-nih-fors",
+    "description": "Transforms the target into a dragon.",
+    "mentioned": "Used multiple times in 1993 and 1994.",
+    "etymology": "From the Latin word draco, meaning 'dragon', and forma meaning 'shape'."
+},
+{
+    "name": "Drought Charm",
+    "type": "Charm",
+    "description": "Causes puddles and ponds to dry up. Though not powerful enough to drain a body of water like a lake.",
+    "mentioned": "Mentioned by Ronald Weasley in 1994 when Harry was getting ready for the Second Task of The Triwizard Tournament."
+},
+{
+    "name": "Ducklifors",
+    "type": "Transfiguration, Jinx",
+    "pronunciation": "DUCK-lih-fors",
+    "description": "Transforms the target into a duck.",
+    "etymology": "From the English duck, and the Latin forma meaning 'shape'.",
+    "mentioned": "Multiple times in 1994 and 1995."
+},
+{
+    "name": "Duro", 
+    "type": "Charm",
+    "pronunciation": "DOO-roh",
+    "description": "This charm transforms the target into solid stone.",
+    "mentioned": "Used by Hermione Granger in 1998 while escaping from Death Eaters in the Battle of Hogwarts.",
+    "etymology": "In Latin duro means 'harden'."
+},
+{
+  "name": "Glacius",
+  "type": "Charm",
+  "pronunciation": "GLAY-shuss",
+  "description": "Transforms the target into solid albeit normal ice.",
+  "mentioned": "Used in the video games. Never used in the books or films.",
+  "etymology": "From Latin glacies, which means 'ice'."
+},
+{
+  "name": "Glacius Duo",
+  "type": "Charm",
+  "pronunciation": "GLAY-shuss DOO-oh",
+  "description": "A more powerful version of Glacius.",
+  "mentioned": "Used in the video games. Never used in the books or films.",
+  "etymology": "From Latin glacies, which means 'ice'."
+},
+{
+  "name": "Glacius Tria",
+  "type": "Charm",
+  "pronunciation": "GLAY-shuss TREE-ah",
+  "description": "A more powerful version of Glacius Duo.",
+  "mentioned": "Used in the video games. Never used in the books or films.",
+  "etymology": "From Latin glacies, which means 'ice'."
+},
+{
+  "name": "Glisseo",
+  "type": "Charm",
+  "pronunciation": "GLISS-ee-oh",
+  "description": "Causes the steps on a stairway to flatten into a slide.",
+  "mentioned": "Used by Hermione Granger to escape from Death Eaters.",
+  "etymology": "Probably derived from French glisser, meaning 'to slide'."  
+},
+{
+  "name": "Green Sparks",
+  "description": "Shoots green sparks from the wand.",
+  "mentioned": "Taught in Defence Against the Dark Arts; When Hagrid, Harry and Hermione try to find an injured unicorn, Hagrid says that if it is found, they must send up green sparks."
+},
+{
+  "name": "Gripping Charm",
+  "type": "Charm",
+  "description": "Helps someone grip something more effectively.",
+  "mentioned": "Used on Quaffles to help Chasers carry them."
+},
+{
+  "name": "Illegibilus",
+  "type": "Charm",
+  "pronunciation": "i-lej-i-bill-us",
+  "description": "Illegibilus is a spell that is used to render a text illegible."
+},
+{
+  "name": "Immobulus",
+  "type": "Charm",
+  "pronunciation": "eem-o-bue-les", 
+  "description": "Renders living targets immobile.",
+  "mentioned": "Hermione used it 1992 to freeze 2 Cornish Pixies. According to Horace Slughorn, a Freezing Charm will disable a Muggle Burglar Alarm. It strikes resemblances to the Flame-Freezing Charm, which negates the effects of fire.",
+  "etymology": "From the Latin 'immobilis', meaning immovable.",
+  "notes": "The Incantation was mentioned in the film adaptations of Harry Potter and The Chamber of Secrets. Remus Lupin also used it on the womping willow in the third movie when they use the time turner."
+},
+{
+  "name": "Impedimenta",
+  "type": "Jinx",
+  "pronunciation": "im-ped-ih-MEN-tah",
+  "description": "This jinx is capable of tripping, freezing, binding, knocking back and generally impeding the targets progress towards the caster. The extent to which the spells specific action can be controlled by the caster is unclear.",
+  "mentioned": "Used in 1995 when Harry was practising for the Third Task of the Triwizard Tournament. In 1996, Harry saw in a memory that James Potter used it on Severus Snape. Also used in 1997 by Harry against the Inferi and Snape. Stronger uses of this spell seem capable of blowing targets away.",
+  "etymology": "Latin impedimentum (plural impedimenta), 'a hindrance' or 'an impediment'."
+},
+{
+  "name": "Imperio",
+  "type": "Curse",
+  "pronunciation": "im-PEER-ee-oh",
+  "description": "One of the three 'Unforgivable Curses'. Places the subject in a dream-like state, in which he or she is utterly subject to the will of the caster. However, those who are strong willed may learn to resist it. The use of this curse on another human results in capital punishment or life sentence in Azkaban",
+  "mentioned": "Used on many occasions. First seen in 1994 when Barty Crouch Jr, impersonating ex-Auror Alastor Moody, used it on a spider and later on students during a 'class demonstration' in a Defence Against the Dark Arts class. While breaking into Gringotts in 1998, Harry used it on a goblin and a Death Eater when they became suspicious.",
+  "etymology": "Latin impero, I command, and English 'imperious'."
+},
+{
+  "name": "Imperturbable Charm",
+  "type": "Charm",
+  "description": "Makes objects such as doors impenetrable (by everything, including sounds and objects).",
+  "mentioned": "The spell was used in 1995 by Hermione to trap Rita Skeeter within a bottle while she was in beetle form. It was also used by Molly Weasley in the same year on the door of the room in which an Order of the Phoenix meeting was being held, in order to prevent her sons, Fred and George, from eavesdropping."    
+},
+{
+  "name": "Impervius",
+  "type": "Charm",
+  "pronunciation": "im-PUR-vee-us",
+  "description": "This spell makes something repel (literally, become impervious to) substances and outside forces including water.",
+  "mentioned": "Used by Hermione Granger in 1993 on Harrys glasses while in a Quidditch match and also by the Gryffindor Quidditch team. Also used in 1997, first by Ron to protect objects in Yaxleys office from rain, and then by Hermione to protect Harry, Ron and Griphook from the burning treasure in the Lestranges vault.",
+  "etymology": "It is said that the Latin impervius means 'impervious', although it is the source of the word, it is better translated as impassable, as in a mountain peak." 
+},
+{
+  "name": "Inanimatus Conjurus",
+  "type": "Transfiguration",
+  "pronunciation": "in-an-ih-MAH-tus CON-jur-us",
+  "description": "It is a spell of unknown effect, most likely used to conjure an inanimate object.",
+  "mentioned": "Mentioned briefly in 1995."    
+},
+{
+  "name": "Incarcerous",
+  "type": "Conjuration",
+  "pronunciation": "in-CAR-ser-us",
+  "description": "Ties someone or something up with ropes.",
+  "mentioned": "First heard in 1996, when Dolores Umbridge tries to hold off Centaurs. Also used by Harry on the Inferi in Voldemorts Crystal Cave in 1997 and also attempted to use it on Severus Snape in the same year.",
+  "etymology": "Probably English incarcerate, 'to imprison'. Possibly linked to the Latin in carcerem, 'in(to) prison'.",
+  "notes": "A non-verbal version of this spell may have been used to tie up Remus Lupin by Severus Snape during the encounter in the Shrieking Shack, and then later Peter Pettigrew in 1994. It may also have been used by Quirrell in 1992, although he is said to have merely 'snapped his fingers'. Also, it may have been the spell Antonin Dolohov used non-verbally to bind Ron Weasley with 'shining black ropes' in a skirmish on Tottenham Court Road. It can be bought at Wiseacres Wizarding Equipment in Diagon Alley in LEGO Harry Potter: Years 1-4."    
+},
+{
+  "name": "Incendio", 
+  "type": "Charm, Conjuration",
+  "pronunciation": "in-SEN-dee-oh",
+  "description": "Produces fire.",
+  "mentioned": "It was first seen in 1994 by Arthur Weasley to create a fire in the Dursleys hearth so that he could use Floo powder there. In 1997, this spell was used several times in battle, most noticeably when Hagrids hut was set ablaze. It was also possibly used by Hagrid in 1991 to create a fire in the hearth before bringing Harry to London.",
+  "etymology": "Latin incendere, 'to set fire (to)'. Note that the first principal part of this verb (meaning 'I set fire') is incendo, not incendio. Rowlings incantation does not match exactly any correct conjugation of the verb. Incêndio, in Portuguese (same pronunciation as in English) means 'huge fire'. 'Encender' in Spanish means 'to ignite' and 'Incendie' in French means flame. (A plausible but less likely source might be that it is a back-formation from the English word 'incendiary,' i.e., 'causing fire.')",
+  "notes": "Probably the charm used frequently by Hermione, as it is noted that creating small portable fires is a speciality of hers. This fire is said to be portable and blue, which may be a different enchanted fire, possibly the bluebells flames incantation."    
+},
+{
+  "name": "Incendio Duo",
+  "type": "Charm",
+  "pronunciation": "in-SEN-dee-oh DOO-oh",
+  "description": "A stronger version of Incendio.",
+  "mentioned": "It was in Harry Potter and the Chamber of Secrets."    
+},
+{
+  "name": "Incendio Tria",
+  "type": "Charm",
+  "pronunciation": "in-SEN-dee-oh TREE-ah",
+  "description": "An improvement over both Incendio and Incendio Duo.",
+  "mentioned": "It was in Harry Potter and the Philosophers Stone (video game), Harry Potter and the Chamber of Secrets (video game) and Harry Potter and the Prisoner of Azkaban (video game)."    
+},
+{
+  "name": "Inflatus (Inflatus Jinx)",
+  "type": "Charm",
+  "pronunciation": "in-FLAY-tus",
+  "description": "Inflates objects (living or dead).",
+  "mentioned": "One of the secondary spells in Harry Potter and the Goblet of Fire (video game) or possibly in 'Harry Potter and the Prisoner of Azkaban' (film).",
+  "etymology": "The prefix 'Inflate' derives from the English verb 'to expand with oxygen'."    
+},
+{
+  "name": "Informous",
+  "type": "Charm",
+  "pronunciation": "in-FOR-m-es",
+  "description": "Informous is a spell that is used to complete ones Folio Bruti. A page with a brief description (including weaknesses and strengths) of the charmed creature is added to the casters Folio Bruti.",
+  "mentioned": "This was seen in the video game version of Harry Potter and the Chamber of Secrets (GBC version)",
+  "etymology": "The prefix Info derives from the English verb 'to inform'."
+},
+{
+  "name": "Intruder Charm",
+  "type": "Charm",
+  "description": "Detects intruders and sounds an alarm.",
+  "mentioned": "Horace Slughorn used it on a Muggle-owned house he stayed in temporarily in 1996, but did not hear it go off when Albus Dumbledore and Harry Potter arrived, as he was in the bath."
+},
+{
+  "name": "Knee-reversal hex",
+  "type": "Hex",
+  "description": "Causes the victims knees to appear on the opposite side of his/her legs.",
+  "mentioned": "In Quidditch Through the Ages, Gertie Keddle uses this hex when a man playing an early form of Quidditch comes to retrieve his ball from her garden."
+},
+{
+  "name": "Nox (Wand-Extinguishing Charm)",
+  "type": "Counter-Charm",
+  "pronunciation": "Nocks",
+  "description": "Turns off the light produced by Lumos.",
+  "mentioned": "In 1994, Harry Potter and Hermione Granger used this spell to turn off their wand-lights in the Shrieking Shack. Used in 1998 when Harry was in the passage beneath the Whomping Willow which leads to the Shrieking Shack. Lumoss power can be arranged so that a powerful wizard can make the charm illuminate intensely or to the wizards liking by loudness of incantation. For example 'LUMOS!!!' would be powerful and 'lumos' would be weaker. Also used by Harry Potter in 1998 to turn off the light so he could hide the Marauders Map from Severus Snape.",
+  "etymology": "Latin nox, meaning 'night'."
+},
+{
+  "name": "Nebulus",
+  "type": "Charm",
+  "pronunciation": "NEH-bu-lus",
+  "description": "This spell conjures fog from the tip of the wand."
+},
+{
+  "name": "Oculus Reparo",
+  "type": "Charm",
+  "description": "Mends eyeglasses.",
+  "mentioned": "Used by Hermione in 1991 and 1992 to fix Harrys glasses.",
+  "notes": "This spell is a variation of Reparo."    
+},
+{
+  "name": "Obliteration Charm",
+  "type": "Charm",
+  "description": "Removes footprints.",
+  "mentioned": "Used by Hermione in 1995 to remove the footprints that she, Harry, and Ron left in the snow while walking to Hagrids hut. Also used in 1997 by Hermione to remove the footprints she and Harry left behind them in the snow as they journeyed through Godrics Hollow.",
+  "notes": "The above instance in book five only reveals that the Obliteration Charm can remove footprints. There is no explanation as to what effect it can have on other things. It could possibly destroy things, according to its name."    
+},
+{
+  "name": "Obliviate",
+  "type": "Charm",
+  "pronunciation": "oh-BLI-vee-ate",
+  "description": "Used to hide a memory of a particular event.",
+  "mentioned": "First seen in 1993 when used by Gilderoy Lockhart on Harry and Ron; the spell backfired due to a faulty wand, costing Lockhart most of his own memory. Also, Hermione Granger used this spell to wipe her parents memories in 1997. Again, it was used in 1997 when Hermione Granger used the spell on 2 Death Eaters who had followed Harry, Ron, and Hermione after their escape from Bill Weasleys and Fleur Delacours wedding.",
+  "etymology": "Latin oblivisci, 'forget'. The spell is most often used against Muggles who have seen something of the Wizarding world.",
+  "notes": "Memory Charms are confirmed on J.K. Rowlings website to have been developed by a witch named Mnemone Radford, who became the Ministry's first Obliviator. The Ministry of Magic employees assigned to modifying the memories of Muggles are called Obliviators. The charm can be broken by powerful magic, or extreme duress, as Lord Voldemort was able to torture Bertha Jorkins into remembering details that Barty Crouch Snr had forced her to forget using the charm. In this case, it was also shown that if the charm is too powerful, it can cause the target to develop a bad memory. This spell differs from the False Memory Charm."    
+},
+{
+  "name": "Obscuro",
+  "type": "Conjuration",
+  "pronunciation": "ob-SK(Y)OOR-oh",
+  "description": "Causes a blindfold to appear over the victims eyes, obstructing their view of their surroundings.",
+  "mentioned": "Used by Hermione Granger in 1997 to obstruct the portrait of Phineas Nigellus's view of their location.",
+  "etymology": "English word obscure, meaning 'unclear' or 'unnoticeable'.",
+  "notes": "This spell might only affect characters in paintings; there are no other references to this spell."
+},
+{
+  "name": "Oppugno",
+  "type": "Jinx",
+  "pronunciation": "oh-PUG-noh",
+  "description": "Apparently causes animals or beings of lesser intelligence to attack.",
+  "mentioned": "Used by Hermione Granger in 1996 to attack Ron Weasley with a summoned flock of canaries during an argument.",
+  "etymology": "Latin oppugno, 'I attack'." 
+},
+{
+  "name": "Orbis",
+  "type": "Jinx",
+  "pronunciation": "OR-biss",
+  "description": "Sucks the target into the ground",
+  "mentioned": "Used multiple times in 1993.",
+  "etymology": "Orbis is Latin for 'circle', which reflects the spells physical appearance."
+},
+{
+  "name": "Orchideous",
+  "type": "Conjuration",
+  "pronunciation": "or-KID-ee-us",
+  "description": "Makes a bouquet of flowers appear out of the casters wand.",
+  "mentioned": "Used in 1994 by Mr Ollivander to test Fleur Delacours wand. Probably used non-verbally by Tom Riddle to present flowers to Mrs Smith.",
+  "etymology": "English orchid and Latin suffix -eous, 'of or bearing (the root word)'.",
+  "notes": "A variation of this spell may have been used when Hermione Granger conjured a Christmas wreath to place on James and Lily Potter's graves in 1997."
+},
+{
+  "name": "Quietus", 
+  "pronunciation": "KWIY-uh-tus",
+  "description": "Makes a magically magnified voice return to normal. A counter to Sonorus.",
+  "mentioned": "Used in 1994 by Ludo Bagman.",
+  "etymology": "Latin quietus, 'calm' or 'quiet'.",
+  "notes": "It is conjectural whether Quietus could be used alone to magically quiet a persons voice, or only counteracts Sonorus."
+}, 
+{
     "name": "Calvario",
     "define": "Hair-Loss Curse",
     "type": "Curse",
