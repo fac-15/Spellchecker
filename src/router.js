@@ -17,7 +17,8 @@ const router = (request, response) => {
     console.log('I am css')
     handlers.handlePublic(request, response, url);
   }else{
-
+    res.writeHead(404, { 'content-type': 'text/plain' });
+    res.end('404 server error');
     console.log('404');
   }
   
