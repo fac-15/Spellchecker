@@ -1,30 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="" content="">
-<link rel="stylesheet" type="text/css" href="style.css">
-
-</head>
-<body>
-<section id = "search">
-  <h1>Spell Checker</h1>
-<div class="topnav">
-  <div class="search-container">
-    <form action="/action_page.php">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit"><i class="fa fa-search"></i></button>
-    </form>
-  </div>
-</div>
-
-<div>
-  <h2>Search Bar</h2>
-  <p>Navigation bar with a search box and a submit button inside of it.</p>
-  <p>Resize the browser window to see the responsive effect.</p>
-</div>
-</section>
-
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="" content="" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <section id="search">
+      <h1>Spell Checker</h1>
+      <form action="/action_page.php" autocomplete="off">
+        <div class="autocomplete">
+          <input
+            type="text"
+            id="spellInput"
+            placeholder="Start typing the name of a spell..."
+            name="SpellSearch"
+          />
+          <div id="autocompleteList" class="autocomplete-items">
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+            <div><strong></strong> <input type="hidden" value="" /></div>
+          </div>
+        </div>
+        <input type="submit" />
+      </form>
+    </section>
+  </body>
 </html>
