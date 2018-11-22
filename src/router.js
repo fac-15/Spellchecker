@@ -2,6 +2,8 @@
 const handlers = require("./handlers.js");
 const path = require("path");
 
+const arr = ['/style.css', '/dom.js', '/favicon.ico', '/404.html'];
+
 
 const router = (request, response) => {
   
@@ -11,9 +13,12 @@ const router = (request, response) => {
   console.log('URL:', url)
   if(url ==='/'){
     handlers.handleHomeRoute(request, response);
-  }else if (url === '/style.css'){
+  }else if (arr.includes(url)){
     console.log('I am css')
     handlers.handlePublic(request, response, url);
+  }else{
+
+    console.log('404');
   }
   
 }
