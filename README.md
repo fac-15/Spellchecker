@@ -31,7 +31,7 @@ The router requires the path and what to do when you get there (aka the function
 The functions requires and handles the object.
 
 Disclaimer 2: this is what we hope is the correct way to link these together, but we're no experts. 
-To our empty modal.js file, we say:
+To our empty model.js file, we say:
 
 ![you are the weakest link](https://media.giphy.com/media/xJLNafkD7RGsE/giphy.gif)
 
@@ -41,15 +41,17 @@ Connecting the front-end to the backend.
 Getting the planned functions to actually connect to the backend and the frontend. 
 Most things.
 
+![everything](https://media.giphy.com/media/fxZ7cC3zYIVXi/giphy.gif)
+
 ### Things that went well! 
 
 The CSS is responsive and writing the spells.json file went well.
 Setting up the server went well in the end.
-We planned well and we all were on the same page about what kind of functionality that we needed. 
+We planned well and we were all on the same page about what kind of functionality that we needed. 
 
 ### How we found the whole project...
 
-We struggled with having all of the different functions etc in different files and different folders. The problem for us was mostly connecting all of it. 
+We struggled with having all of the different functions etc in different files and different folders. The biggest issue for us was connecting all of it. 
 
 ### Stretch goals 
 
