@@ -3,7 +3,20 @@ const input = document.getElementById('spellInput');
 const domCallback = (response, input) => {
   console.log('response: ', response);
   let dropDown = document.getElementById('autocompleteList');
-  for (let i = 0; i < input.length; i++) {}
+  response.forEach(item => {
+    const newItem = document.createElement('div');
+    newItem.setAttribute('value', item.name);
+    dropDown.appendChild(newItem);
+  })
+  
+  
+  
+  
+  
+  
+  // for (let i = 0; i < input.length; i++) {
+
+  // }
 
   // this.value.innerHTML = "<strong>" + dropDown[i].substr(0, val.length) + "</strong>";
   // this.value.innerHTML += dropDown[i].substr(val.length);
