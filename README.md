@@ -11,6 +11,12 @@
 cross your fingers that you get the message "server is listening" 
 5. Open your browser and go to localhost:3000
 
+### The purpose 
+
+Our website is supposed to be an encyclopedia of Harry Potter spells. Type in any letter in the searchbar and BAM, like magic, a list of suggested spells that contains your letters will appear. 
+
+Disclaimer: unfortunately, magic doesn't actually exist, so you know, this isn't what is happening on our website at the mo. 
+
 ### Things we learnt
 
 That getting a server up might be easy, but getting all of the functions to talk to the server properly is hard. 
@@ -19,12 +25,15 @@ Nodemon is so useful.
 
 We can make an api call to our local server just like we make a api call to an extental server.
 
-we learnt how the server, router and handler communicate. 
+We learnt how the server, router and handler communicate:
 The server requires the router (where to go aka the route) and the protocol.
 The router requires the path and what to do when you get there (aka the functions).
 The functions requires and handles the object.
 
+Disclaimer 2: this is what we hope is the correct way to link these together, but we're no experts. 
+To our empty modal.js file, we say:
 
+![you are the weakest link](https://media.giphy.com/media/xJLNafkD7RGsE/giphy.gif)
 
 ### Things we struggled with
 
