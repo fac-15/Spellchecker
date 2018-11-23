@@ -9,11 +9,15 @@ cross your fingers that you get the message "server is listening"
 
 ### Things we learnt
 
+That getting a server up might be easy, but getting all of the functions to talk to the server properly is hard. 
+Backend stuff isn't as intimidating as you might think. 
+Nodemon is so useful. 
 
 ### Things we struggled with
 
 
 ### Things that went well! 
+
 The CSS is responsive and writing the spells.json file went well. 
 
 ### How we found the whole project...
