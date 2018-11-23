@@ -43,23 +43,18 @@ const handlePublic = (request, response, url) => {
 const handleRequest = (request, response) => {
   method = request.method;
   if (method === 'GET') {
-    console.log('spells', spells[0]); // currently not logging!
-    response.end(JSON.stringify(spells));
-
-    // let filteredNames = [];
-    // request.on('data', function(chunkOfData) {
-    //   let nameArr = object.map((item) => {
-    //     item.name;
-    //     item.define;
-    //   });
-    //   let matchingKeys = nameArr.filter((key) => {
-    //     if (key.indexOf(chunkOfData) !== -1) {
-    //       filteredNames.push(key);
-    //     }
-    //   });
-    //   return matchingKeys;
-    // });
+    // console.log('spells', spells[0]); // currently not logging!
+    console.log(request.url.split('=')[1]);
+    const inputValue = request.url.split('=')[1];
+    const filteredNames = spells.filter((spell) => {
+      const name = spell.name || spell.define || '';
+      if (name.toLowerCase().indexOf(inputValue.toLowerCase()) !== -1) {
+        return name;
+      }
+    });
+    response.end(JSON.stringify(filteredNames));
   }
+};
 
 module.exports = {
   handleHomeRoute,
