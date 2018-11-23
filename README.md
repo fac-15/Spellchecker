@@ -25,5 +25,3 @@ The CSS is responsive and writing the spells.json file went well.
 We struggled with having all of the different functions etc in different files and different folders. The problem for us was mostly connecting all of it. 
 
 ### Stretch goals 
-
-
