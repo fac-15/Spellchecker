@@ -1,7 +1,10 @@
 const fs = require('fs');
 const path = require('path');
+const querystring = require('querystring');
+const spells = require('./data/spells.json');
 
 const handleHomeRoute = (request, response) => {
+  const method = request.method;
   const filePath = path.join(__dirname, '..', 'public', 'index.html');
   fs.readFile(filePath, (error, file) => {
     if (error) {
@@ -15,7 +18,8 @@ const handleHomeRoute = (request, response) => {
   });
 };
 
-const handlePublic = (resquest, response, url) => {
+const handlePublic = (request, response, url) => {
+  const method = request.method;
   const filePath = path.join(__dirname, '..', 'public', url);
   const ext = url.split('.')[1];
   const extType = {
@@ -36,7 +40,24 @@ const handlePublic = (resquest, response, url) => {
   });
 };
 
+const handleRequest = (request, response) => {
+  method = request.method;
+  if (method === 'GET') {
+    // console.log('spells', spells[0]); // currently not logging!
+    console.log(request.url.split('=')[1]);
+    const inputValue = request.url.split('=')[1];
+    const filteredNames = spells.filter((spell) => {
+      const name = spell.name || spell.define || '';
+      if (name.toLowerCase().indexOf(inputValue.toLowerCase()) !== -1) {
+        return name;
+      }
+    });
+    response.end(JSON.stringify(filteredNames));
+  }
+};
+
 module.exports = {
   handleHomeRoute,
-  handlePublic
+  handlePublic,
+  handleRequest
 };

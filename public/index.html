@@ -3,14 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="" content="" />
     <link rel="stylesheet" href="reset.css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
     <section id="search">
       <h1>Spell Checker</h1>
-      <form action="/action_page.php" autocomplete="off">
+      <form action="/search" autocomplete="off">
         <div class="autocomplete">
           <input
             type="text"
@@ -32,5 +31,7 @@
         <input type="submit" />
       </form>
     </section>
+    <script src="request.js"></script>
+    <script src="dom.js"></script>
   </body>
 </html>
