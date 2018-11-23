@@ -1,5 +1,9 @@
 # Spellchecker
 
+![abracadabra](https://media.giphy.com/media/xT1R9XjxkgsaIQClDG/giphy.gif)
+
+![spelled wrong](https://media.giphy.com/media/55offP4umeJUAvWwHP/giphy.gif)
+
 1. Clone into repository
 2. Navigate to Spellchecker 
 3. Write npm i in terminal 
