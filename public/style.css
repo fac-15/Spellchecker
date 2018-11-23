@@ -46,8 +46,7 @@ header h2 {
  }
 /* header-end--------------- */
 
-section.boxes{
-}
+
 
 .content {
     padding: 3em;
@@ -55,7 +54,7 @@ section.boxes{
     box-shadow: 5px 10px 8px #888888;
 }
 
-h2.box-title, #name {
+#name {
   font-size:2em;
   font-weight:600;
     color:black;
@@ -63,16 +62,7 @@ h2.box-title, #name {
      margin-top: 0em;
     text-align:  center;
 }
-h3.box-title #type, #description {
-    color:black;
-    font-size:1em;
-    font-weight:700;
-    margin-top: .5em;
-    margin-bottom: .5em;
-    text-align:  center;
-}
-
-#description, #pronunciation {
+#type, #description, #pronunciation , #define, #mentioned, #etymology, #notes {
     color:black;
     font-size:1em;
     font-weight:700;
