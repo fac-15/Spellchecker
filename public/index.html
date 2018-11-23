@@ -3,36 +3,67 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Spell Checker</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Rye|Sancreek|Neuton:700,800');
+    </style>
     <link rel="stylesheet" href="reset.css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
     <section id="search">
-      <h1>Spell Checker</h1>
-      <form action="/search" autocomplete="off">
-        <div class="autocomplete">
-          <input
-            type="text"
-            id="spellInput"
-            placeholder="Start typing the name of a spell..."
-            name="SpellSearch"
-          />
-          <div id="autocompleteList" class="autocomplete-items">
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-            <div><input type="hidden" value="" /></div>
-          </div>
-        </div>
-        <input type="submit" />
-      </form>
+      <header>
+        <h1>Spell Checker</h1>
+        <h2>Harry Potter Spells and Charms</h2>
+      </header>
+      <section class="boxes">
+        <article class="box">
+          <form action="/search" autocomplete="off">
+            <div class="autocomplete" style="width:100%">
+              <input
+                id="input"
+                type="text"
+                id="spellInput"
+                placeholder="Spellcheck..."
+                name="SpellSearch"
+                maxlength="15"
+              />
+              <div id="autocompleteList" class="autocomplete-items">
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+                <div><strong></strong> <input type="hidden" value="" /></div>
+              </div>
+            </div>
+            <input type="submit" id="spellsubmit" name="" value="" />
+          </form>
+        </article>
+        <article class="box">
+          <a
+            ><img
+              src="https://i.amz.mshcdn.com/F-nz-T6-yrkI30iNQqhTFPCiX50=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F832125%2F7ec63bc3-e60a-46c6-92b1-e6549decee35.jpg"
+              alt="whiteboard agorithm"
+              width="100%"
+            />
+            <div class="box-text">
+              <div id="name">Accio</div>
+              <div id="define"><p>Definition:</p></div>
+              <div id="type"><p>Type:</p></div>
+              <div id="pronunciation"><p>Pronunciation:</p></div>
+              <div id="description"><p>Description:</p></div>
+              <div id="mentioned"><p>Mentioned:</p></div>
+              <div id="etymology"><p>Etymology:</p></div>
+              <div id="notes"><p>Notes:</p></div>
+            </div>
+          </a>
+        </article>
+      </section>
     </section>
+    <footer><p>© C,L,S,S 2018</p></footer>
     <script src="request.js"></script>
     <script src="dom.js"></script>
   </body>
