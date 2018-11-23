@@ -1,13 +1,29 @@
 const input = document.getElementById('spellInput');
 
-const domCallback = (response) => {
+const domCallback = (response, input) => {
   console.log('response: ', response);
-  // map from item to names/defines
-  // use list of names for drop down
-  // OR
-  // return names from server
-  // when you click one of the names in drop down
-  // make new seperate request for that obj
+  let dropDown = document.getElementById('autocompleteList');
+  response.forEach(item => {
+    const newItem = document.createElement('div');
+    newItem.setAttribute('value', item.name);
+    dropDown.appendChild(newItem);
+  })
+  
+  
+  
+  
+  
+  
+  // for (let i = 0; i < input.length; i++) {
+
+  // }
+
+  // this.value.innerHTML = "<strong>" + dropDown[i].substr(0, val.length) + "</strong>";
+  // this.value.innerHTML += dropDown[i].substr(val.length);
+  // /*insert a input field that will hold the current array item's value:*/
+  // this.value.innerHTML += "<input type='hidden' value='" + dropDown[i] + "'>";
+  // // map from item to names/defines
+  // // use list of names for drop down
 };
 
 input.addEventListener('keyup', (e) => {

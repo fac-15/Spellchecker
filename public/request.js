@@ -3,8 +3,7 @@ const makeRequest = (inputValue, callback) => {
   xhr.onreadystatechange = () => {
     if (xhr.readyState == 4 && xhr.status == 200) {
       let obj = JSON.parse(xhr.responseText);
-      callback(obj);
-      //   console.log('request', obj[0]); // successfully logging
+      callback(obj, inputValue);
     }
   };
   xhr.open('GET', `/search?query=${inputValue}`, true);
